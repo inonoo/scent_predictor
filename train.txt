@@ -1,0 +1,4310 @@
+__label__3 Labdanum, Ceder
+__label__1 Sandalwood, Vetiver, Vanilla, Peru Balsam
+__label__3 Woody, Spicy
+__label__6 Rose, Vanilla, Ginger
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Virginia Cedar
+__label__1 Sandalwood, Amber, Vanilla
+__label__6 Woody, Musk, Amber
+__label__1 Patchouli, Vanilla, Ambroxan, Woody Notes
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__1 Oakmoss, Musk, Black Currant
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Cashmere Woods
+__label__3 Amber, Cedar, Toacco
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__3 Leather
+__label__1 White Musk, Vanilla
+__label__0 Amber, musk
+__label__0 Amber, Musk, Vanilla
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__11 Ambery Woods
+__label__1 Patchouli,Cashmeran,Tonka bean, Almod milk
+__label__2 Benzoin, Tonka Bean, Vanilla
+__label__0 Cypress, Amber, Musk, Cedar
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__0 Woody Notes, Vetiver
+__label__5 Caramel, Patchouli, Rum, Sandalwood, Vanilla
+__label__5 Sandalwood, Cashmerean, Musk, Amber, Vanilla
+__label__12 Gaiac Wood
+__label__1 Iris, Vanilla
+__label__5 Vetiver, Moss, Sandalwood, Musk, Black Currant
+__label__5 Oakmoss, Sandalwood, Civet, Cedarwood, Musk, Orris, Tonka Bean
+__label__0 Patchouli, Amber, Sandalwood, Vetiver, Benzoin, Cinnamon
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__1 Musk, Cashmere Wood, Vetiver
+__label__0 Amber, Guaiac Wood, Leather, Lichen, Musk
+__label__1 Lily Of The Valley, Woody, Musky
+__label__4 Geranium, Amber, White Musks
+__label__1 Musk, Sandalwood, Lemon Tree
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Lily, Wild Strawberry
+__label__3 Sandalwood, Tonka Bean
+__label__12 Oakmoss, Sandalwood, Patchouli, Labdanum
+__label__1 Ambrette Seeds, Tonka Beans, Musk
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__3 Patchouli, Sandalwood
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__3 Creamy Amber
+__label__0 Vetiver, Leather, Cedarwood
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__3 Amber, Frankincense, Musk, Patchouli, Vanilla, Vetiver
+__label__0 Suede, Cedar Essence, Black Tea, Woody Notes
+__label__0 Tobacco, Oakmoss, Musk
+__label__15 Sandalwood, Musk, Vetiver, Cedar
+__label__6 Vanilla, Musk, Labdanum
+__label__7 Virginia Cedar, Amber
+__label__0 White Musk, Sandalwood, Vanilla
+__label__0 Cedar, Vetiver
+__label__0 Musk, Sandalwood, Cedar, Oakmoss
+__label__1 Dry Amber, Vanilla
+__label__5 Musk, Amber, Vanilla, Woody notes
+__label__0 Patchouli, Vanilla, Musk
+__label__9 Patchouli, Sandalwood
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__2 Cedar Wood, Patchouli, Vanilla, Leather, Vetiver, Labdanum, Musk
+__label__5 Musk, Plum, Cedarwood
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__1 Musk
+__label__3 Aromatic Scents
+__label__2 oud
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__4 Roasted Cocoa
+__label__1 Tonka Bean, Orchid, Sandalwood Vetiver, Iris Ambergris
+__label__1 Floral, Musky
+__label__1 Amberwood, Cedar, Chestnut, Vanilla
+__label__1 Vanilla, Musk, Labdanum
+__label__1 Patchouli, Vetiver
+__label__5 Patchouli, Cedar, Amber, Tonka, Vanilla
+__label__0 Amber, Musk, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Silver Moss, Mineral Amber, Musk
+__label__1 Birch, Vetiver, Amber
+__label__0 Patchouli, musk, vanilla, amber
+__label__5 Musk, Sandalwood, Vanille
+__label__1 Woody, Oriental, Musky
+__label__4 Woody Amber, Cedar Accords
+__label__0 Cedar Wood
+__label__0 Patchouli, sandalwood, musk, amber
+__label__7 Cashmere Wood, Tonka Bean, Orcanox
+__label__1 Wood, Musk
+__label__6 Vanilla, Musk, Labdanum
+__label__2 Guaiac Wood, Woodsy Notes, Virginia Cedar, Amber, Vanilla
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Cedarwood, Patchouli, Sandalwood, Benzoin
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__5 Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__8 Luid Sandalwood, Jasmine, Amber, Vanilla
+__label__5 Coconut, Musk, Sandalwood
+__label__6 Sandalwood, Cedar, Vanilla
+__label__1 Patchouli, Sandalwood
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__18 Milk, Sandalwood, Cardamom
+__label__1 Virginia Cedar, Incense
+__label__0 Sandalwood, Amber, Musk, Vanilla
+__label__6 Incense, Musk, Tonka Bean, Saffron
+__label__3 Sandalwood, Amber, Coconut, Patchouli, Vanilla, Cedar
+__label__18 Jasmine, Amber, Balsamic
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__1 Musk, Woody Accord
+__label__2 Sandalwood, Amber, Patchouli, Musk, Benzoin, Caramel, Vetiver, Vanilla
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__0 Haitian Vetiver, Tonka Bean, Amberwood
+__label__3 Lamon, Woody
+__label__0 Wood, Almond
+__label__0 Burnt Amber, Cashere Woods, Vanilla, Sandalwood
+__label__5 Musk, Grey Amber, Inoki Wood
+__label__1 Amber, Musk, Powdery Notes, Cedar, Sandalwood
+__label__1 Cashmeran, Amber, Musk
+__label__1 Dry Amber, Vanilla
+__label__0 Sandalwood, Amber, Patchouli, Civet, Oakmoss Vetiver
+__label__2 Agarwood, Amber
+__label__0 Vanilla, Musk
+__label__1 White Amber, Woods
+__label__1 Amber, Vanilla, Ambergris, Musk
+__label__7 Amber, palisander rosewood
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__6 Patchouli, Fir, Cedar
+__label__2 Vetiver, Sandalwood, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Amber, Incense, Guaiac Wood
+__label__3 Woody Notes, Tonka Bean
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__5 Delicate Musky Sensual Woods
+__label__1 Woody Notes, Musk
+__label__1 Cedar, White Musk
+__label__3 Cedarwood, Patchouli, Vetiver, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__0 Woody Notes, Vetiver
+__label__1 Rose, Sensual Musk
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Patchouli
+__label__2 Tonka Bean, Cacao, Vanilla, Praline, Sandalwood, Amber, Cashmere Wood, Musk, Patchouli, Cinnamon, Cedar
+__label__0 Leather, Oakmoss, Amber
+__label__1 Leather, Musk
+__label__3 Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__1 Virginia Cedar
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__0 Vetiver, Vanilla
+__label__5 Cacao
+__label__14 Leather, Oakmoss, Vanilla, Woody Notes
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__0 Leather
+__label__0 Amber, Leather
+__label__1 Neroli, Rose
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__1 Patchouli, Vanilla And Honey
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__7 Sandalwood, Patchouli
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Amber Milk, Mousse Australian, Sandalwood, Vanilla
+__label__0 Amber, patchouli, vanilla, musk, sandalwood
+__label__0 Honey, Amber, Musk, Oakmoss
+__label__3 Tobacco, Patchouli, Vetiver
+__label__1 White Wood, Musk, Amber, Cedar, Violet
+__label__0 Amber, Sandalwood, Patchouli
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cedar
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__2 Iris, Jasmine, Sweet Vanilla, Patchouli
+__label__1 Vetiver, Sandalwood, Cashmere, Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__12 Woody, Masculine, Cedarwood, Vetiver, Patchouli Accords
+__label__0 Cashmere Wood, Agarwood (Oud), Labdanum, Patchouli, Ebony Tree, Musk, Madagascar Vanilla, Suede
+__label__3 Amber, Musk
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__7 White Musk, Vetiver, Cedar
+__label__0 Leather, Cedar, Vetiver
+__label__3 Creamy Amber
+__label__1 Amber, Musk, Patchouli, Woody Notes
+__label__7 Frankincense, Musk, Saffron, Tonka Beans
+__label__1 Patchouli, Woods, Amber, Orcanox, Vanilla
+__label__6 Honey, Patchouli
+__label__7 Woodsy Notes, Vetiver
+__label__0 Leather, Suede, Cedar
+__label__8 Sandalwood, Musk
+__label__2 Cashmere Wood, Amber, Musk
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__5 Cedar, Musk, Patchouli, Wood
+__label__1 Oined with Damascus, Centifolia Rose
+__label__1 Tonka bean, amber, benzoin, cedar
+__label__3 Violetwhite Wood, Musk, Amber, Cedar, Violet
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__2 Ebony, Woodsy Notes
+__label__5 Lemon Tree, Musk, Sandalwood
+__label__5 Amber, Musk, Cashmere Wood
+__label__7 Patchouli, Brown Sugar Accord
+__label__0 Warm Amber, Musk, Tonka Bean
+__label__1 Tonka Bean, Vanilla, Olibanum
+__label__2 Cedar, Tonka Bean
+__label__0 Sandalwood, Oakmoss, Musk
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__0 Louro Amarelo Wood, Sandalwood, Musky Notes
+__label__1 Musk, Sandalwood, Patchouli, Oakmoss, Cedar, Pepper, Pine Tree
+__label__2 Cedar, Oakmoss, Vanilla, Vetiver
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__1 Patchouli, Sandalwood
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__1 Musk, Wood
+__label__0 Leather
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__3 Sandalwood, Tonka Bean
+__label__2 Amber, Musk, Jasmine
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__1 Amber, Civet, Honey, Lichen, Musk, Sandalwood, Tonka Beans, Vanilla
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__7 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__1 Amber, Cedar, Musk
+__label__3 Patchouli, Vetiver, Moss
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__6 Wood, Cedar Wood, Patchouli, Animal, Sandalwood
+__label__1 Marshmallow, Sandalwood, Vanilla
+__label__5 Amber, Vanilla, Musk
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Musk, Moss
+__label__13 Sandalwood, Cedarwood
+__label__7 Benzoin, Olibanum, Patchouli, Suede
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__1 Musk, vanilla
+__label__4 Violet Root, Iris, Nectarine, Peach Blossom, Rose Hip Red Cyclamen, Blue Hyacinth
+__label__1 Vetiver, White Cedar Extract, Cedar
+__label__3 Cedarwood, Patchouli, Vanilla
+__label__1 Cedarwood
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Vetiver, Vanilla
+__label__0 Leather, amber, musk, oakmoss, balsam fir, vetiver, incense, cedar
+__label__1 Vanilla, Amber
+__label__1 Cashmere, Sandalwood, Ambergris
+__label__6 Chocolate,cashmere Wood, Patchouli, Tonka Bean
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Musk, Oakmoss, Agarwood, Leathery
+__label__5 Amber, Caramel, Vanilla, Sandalwood
+__label__4 Apricot, Amber, Lemon Tree
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__1 Vanilla, Amber
+__label__7 Guaiac Wood, Patchouli Heart
+__label__1 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Amber, Labdanum, Leather, Musk, Tonka Beans, Vanilla
+__label__1 Vanilla, Amber, Patchouli, Sandalwood
+__label__3 Cedar, Sandalwood, Musk, Amber
+__label__12 Leather, Benzoin, Tonka
+__label__1 Indonesian Patchouli Essence, Indian Sandalwood, Amber, Vanilla
+__label__1 Patchouli, Woody Notes, Musk
+__label__7 Leather, Tobacco, Tonka Bean
+__label__0 Blonde Leather Patchouli White Woods Amber
+__label__1 Amber, Cashmere Wood, Musk
+__label__0 Labdanum Rum
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Amber, Vanilla, Clove, Iris, Musk, Sandalwood
+__label__0 Ambroxan, Akigalawood, Indonesian Patchouli Leaf, Cacao Pod
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__1 Wood, Musk
+__label__6 Musk
+__label__3 Tonka Bean, Amberwood, Cacao
+__label__7 Patchouli, Sandalwood
+__label__2 Musk, Amber, Patchouli, Papyrus
+__label__1 Golden Woods Musk
+__label__7 Georgywood, Suede, Vetiver, Cedarwood
+__label__1 Vanilla, Patchouli, Massoia Wood
+__label__7 Sandalwood, patchouli, amber
+__label__1 Cedar, Sensual Benzoin
+__label__1 Sandalwood, Vetiver, Vanilla, Amber, Musk
+__label__4 Amber, Musk, Oakmoss, Agarwood (Oud)
+__label__1 Musk,  Sandalwood,  Cedar,  Vanilla,  Opoponax,  Amber
+__label__5 Tobacco, Amber, Cedar
+__label__0 Sandalwood, Oak Moss, Vetiver
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__0 Sandalwood
+__label__2 oud
+__label__1 Ambery Woody
+__label__1 Vanilla, Musk, Sandalwood, Guaiac Wood, Amber
+__label__2 Cedar, Tonka Bean
+__label__9 Tail Rose
+__label__6 Amber, Musk, Sandalwood, Coumarin, Vanilla
+__label__5 Tonka Bean, Sensual, Rich, Creamy Buttery Lactonic Caramel
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__0 Black Amber, Patchouli
+__label__3 Incense, Amber, Leather, Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__0 Ginger, Fir Resin, Nutmeg, Amber
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__3 Woodsy, Tonka Bean
+__label__6 Moss, Musk, Vetiver
+__label__0 Agarwood, Patchouli, Leatherwood
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__1 Patchouli, Amber, Musk
+__label__1 Cuddly, Creamy Rosewood
+__label__7 Sandalwood, Amber, Musk, Cedar, Oak moss
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Musk, Woody Notes
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Coconut Accords, Wood, Musk
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__7 Virginia Cedar, Amber
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__0 Cedar Wood, Tonka Beans, Vetiver
+__label__1 Musk, Patchouli, Sandalwood
+__label__1 Cedar, Amber
+__label__5 Jasmine
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Woodsy Notes
+__label__1 Liquid Amber, Black Violet, Cream, Mahogany
+__label__1 Patchouli, Earthy, Dry Amber
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__7 Powdery Vanilla, Musk, Woody Accords
+__label__1 Almonds, Cedar, Oakmoss, Tonka Beans, Vanilla
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__0 Benzoin
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__0 Ebony Wood
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__5 White Musk, Blond Wood
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__3 Woody, Spicy
+__label__0 Amber Wood, Sandalwood, White Musk
+__label__1 Honey, Patchouli
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__3 Tonka Bean, Guaiac Wood, Benzoin
+__label__1 Green leaves of lily
+__label__1 Vanilla, Woodsy Notes, Sandalwood, Musk
+__label__7 Patchouli, Cedar, Vanilla, White Musk, Oak Moss
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__1 Apricot, Amber, Lemon Tree
+__label__17 Damascus, Centifolia Rose
+__label__1 Cuddly, Creamy Rosewood
+__label__0 Vetiver, Patchouli
+__label__6 Patchouli, Fir, Cedar
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__2 Sandal Wood, Vanilla, Tonka Bean, Amber, Musk
+__label__0 Musk, Incense, Amber, Resins, Woody Note
+__label__3 Musk, Sandalwood, Patchouli, Amber
+__label__20 White Musk, Amber, Vanilla, Sugar
+__label__1 Coriander
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__0 Guaiac Wood, Benzoin
+__label__5 Amber, Oakmoss, Cedar
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__0 Cedar, Tonka Bean, Musk, Leather, Sandalwood, Oakmoss
+__label__2 Woody Notes, Spices, Musk, Vanilla
+__label__3 Acacia Wood
+__label__0 Sandalwood, Cedarwood
+__label__1 Musk, Vanilla, Woody Notes
+__label__4 Amber
+__label__0 Leather, Suede, Cedar
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__7 Guaiac Wood, Patchouli Heart
+__label__6 Woodsy transparent with coffee, incense touches
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__2 Jasmine, Wisteria
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__4 Vetiver, Patchouli
+__label__1 Sandalwood
+__label__5 Cacao
+__label__3 Guaiac Wood, Benzoin
+__label__8 Amber, Woods, Musk, Patchouli, Sandalwood, Vanilla
+__label__1 Woody Notes, White Musk, Amber
+__label__0 Musk, Cashmere Wood
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__9 Musk, Patchouli, Amber
+__label__9 Red Cedar White Musk, Patchouli
+__label__1 Amber, Orris, Sandalwood
+__label__12 Sandalwood, Oakmoss, Tonka Beans, Virginia Cedar, Vetiver, Musk
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__0 Benzoin
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__1 Aromatic Cedarwood, Tonka, Amber, Vetiver
+__label__2 Vanilla, Ambra
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__3 Apricot, amber, lemon tree
+__label__3 Tonka Bean, Woody Notes
+__label__5 Vegetal Amber, Musk, Mahogany
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__0 Australian Sandalwood, Musk, Vanilla
+__label__1 Amber, Tibetan Musk, Sandalwood, Iris, Vanilla
+__label__3 Amber, Cactus, Cotton Plant Blossom
+__label__4 Cedar, Vetiver, Patchouli, Sandalwood, Ambergris, Musk
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__0 Cedar Wood
+__label__6 Sandalwood, Musk, Vanilla Orchid, Cedar
+__label__7 Ambergris, musk
+__label__1 Joshua Tree, Ambroxan
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cashmeran, Suede, Musk
+__label__1 Sandalwood, Cashmere, Ambergris
+__label__3 Labdanum, Cedar
+__label__0 Cedarwood, Tonka Bean
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Cedar, Vanilla, Patchouli
+__label__0 Benzoin, Guaiac Wood, Tonka Beans
+__label__1 White Musk, Sandalwood
+__label__1 Woody, musky
+__label__1 Sandalwood, Caramel, Beeswax, Patchouli
+__label__2 Vanilla, Tonka Bean, Iris, Sandalwood, Musk, Amber, Vetiver, Cedar, Patchouli
+__label__4 Patchouli, Caramel, Amber, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Guaiac Wood, Musk, Vanilla
+__label__1 Amber, Patchouli
+__label__0 Indonesian Patchouli, Oakmoss
+__label__1 Oakmoss, Amberwood, Patchoulli, Sandalwood, White Musk
+__label__1 Orris Root, Musk, Vanilla
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__1 Patchoulie, Musk, Schijnhulst
+__label__5 Cypress, Cashmere Wood, Amberwood, Sandalwood
+__label__5 Musk, Vanilla
+__label__4 Amber
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__0 Sandalwood, Olive Tree, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Cashmeran, Ambroxan, Musk
+__label__1 Lily, Wild Strawberry
+__label__0 Opoponax, Patchouli, Tonka Beans, Vanilla, Vetiver, White Musk
+__label__0 Musk, Amber, Wood
+__label__3 Amber, Woody
+__label__1 Leather, Oakmoss, Amber
+__label__5 Cacao
+__label__1 Vetiver, Musk, Ambroxan
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__3 Incense, Lotus, Patchouli, Sandalwood, Vanilla, Vetiver
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__9 Tonka Bean, Guaiac Wood
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__1 Rangoon Creeper
+__label__1 Amber, Benzoin, Cedar, Tonka Beans
+__label__6 Musk, Balsam Fir
+__label__3 Guaiac Wood, Benzoin
+__label__2 Sandalwood, Leather note, Amber notes, Oud, Muscs note
+__label__6 Sandalwood, Musk, Amber
+__label__4 Sandal Wood, Musk, Vetiver
+__label__1 Virginia Cedar
+__label__3 Musk, Patchouli, Amber, Tobacco
+__label__1 Rangoon Creeper
+__label__1 Cotton Candy, Musk, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__3 Amber, Moss, Musk, Vanilla, Vetiver
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__0 Cedar, Benzoin, Suede Accord
+__label__0 Sandalwood, Tonka Bean, Amber, Coconut, Vanilla, Oak Moss, Cedar, Styrax
+__label__3 Leather, Papyrus
+__label__0 Vetiver, Ceder, WhiteMusk
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__6 Musk, Vanilla
+__label__4 Vanilla, Amber
+__label__0 Vanilla, Sandalwood, Vetiver, Cedarwood, Olivewood, Amber-like-notes, Musk-like-notes
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Powdery Vanilla, Musk, Woody Accord
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__6 Patchouli, Fir, Cedar
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__18 Rose, Geranium, Jasmine, Tea
+__label__2 Vanille, Tonka Bean
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__0 Cashmere Wood, Musk
+__label__4 Sugar, Vanilla, Cedar, White Musk
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__1 Bergamot, Gardenia, Pelargonium, Cotton Candy, Flowers
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__8 Musk, White Wood
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__9 Cedar, Musk
+__label__3 Paraguayan Lignum Vitae, Indonesian Patchouli, Laotian Benzoin, Copper Accords
+__label__1 Woody Notes, Musk
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__3 Patchouli
+__label__1 Sandalwood, Patchouli, Amber, Vetiver, Sensual Musk
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__3 Musk, Patchouli, Cedar Wood
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__0 Musk, Amber, Wood
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__2 Jasmine, Wisteria
+__label__1 Amber, Precious Musk, Guaiac Wood
+__label__7 Vetiver, Cedar, White Musk
+__label__0 Cedar, Musk, Sandalwood
+__label__6 Rose, Vanilla, Ginger
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__1 Maple, Vanilla Styrax, Benzoin
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__0 Sandalwood, Cedar, Amber, Labdanum
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Sandalwood, Amber, Musk, Vanilla, Oak Moss, Cedar
+__label__0 Vetiver
+__label__1 Patchouli, Amber, Musk
+__label__1 Amber, Virginia Cedar
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__3 Patchouli, Cedar, Vetiver, Frankincense, Musk, Tonka Bean
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__0 Patchouli, Virginia Cedar, Benzoin, Agarwood, Leather, Raspberry
+__label__19 Tobacco, Amber, Guaiac Wood, Sandalwood, Haitian Vetiver, Madagascar Vanilla, White Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__7 cypress, amber, musk, cedar
+__label__2 Sandalwood, Vanilla, Amberwood
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__5 Cedar, Musk, Patchouli, Sandalwood
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__2 Vetyver, Amber, Musk, Oakmoss
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Cashmere Wood, Musk
+__label__1 Musk Wood, Incense, Oakmoss
+__label__5 Suede Musk Sandalwood Cashmeran
+__label__3 Leather, Benzoin, Incense, Cedar, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__10 Marshmallow, Vanilla, Sandalwood, Heliotrope
+__label__2 Amber, Palisander Rosewood
+__label__4 Vanilla, Amber
+__label__1 Sandalwood, Musk, Vanilla
+__label__5 Cedar, Amber, Musk, Vanilla
+__label__1 Honey, Sandalwood, Tonka Bean, Amber, Musk, Civet, Vanilla, Oakmoss, Vetiver
+__label__4 Amber, Patchouli, Musk
+__label__5 Cedar, Leather, Amberwood, BenzoinTolu,  Balsam Vetiver
+__label__3 Sandalwood, Cedar, Vetiver, Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__12 Cedar Wood, Fir, Patchouli
+__label__5 Oak moss, musk, ambergris, vanilla
+__label__0 Cashmere Wood, Musk, Amber, Vanille
+__label__8 Musk, Praline, Tonka Beans, Vanilla, Vetiver
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__7 woody notes, patchouli, cedar
+__label__0 White cedar, patchouli, amber wood, vanilla
+__label__1 Patchouli, Beeswax, Caramel, Licorice
+__label__5 Violet Leaf, Tahiti Tonka, Light Wood
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__3 Vanilla Absolute, Sandalwood, White Musk
+__label__2 Tonka Bean, Cocoa
+__label__0 Haitian vetiver, tonka bean, amberwood
+__label__0 Wood, Almond
+__label__6 Musk, Oakmoss, Cedar, Tobacco, Amber
+__label__5 Floral Ambery Woody
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__0 Tonka Bean, Tahitian Vetiver, Cedar
+__label__3 Amber, Woody
+__label__1 Patchouli, Sandalwood, Vanilla, White Musk
+__label__1 Vanilla, Musk
+__label__3 Leather, Moss, Patchouli
+__label__8 White Musk, Woody Notes, Madagascar Vanilla
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__1 Ambergris, vanilla, leather tonka bean, patchouli, musk, sandalwood, cedar, plum, styrax, oakmoss
+__label__2 Amber, Musk, Sandalwood
+__label__6 Amber, Musk, Sandalwood
+__label__1 Patchouli, Vetiver
+__label__1 Patchouli, Musks, Osmanthus
+__label__1 Amber, Orris, Sandalwood
+__label__1 Sandalwood, Vetiver, Rosewood, Ambergris
+__label__6 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__4 Sandalwood, California Cedar, Vanilla, Musk
+__label__0 Vetiver, Patchouli
+__label__3 Cedar, Olibanum, Vetiver
+__label__1 Powdery
+__label__5 Musk, Plum, Cedarwood
+__label__1 Sandalwood, Patchouli
+__label__5 Musk, Vanilla
+__label__7 Woody, Musk, Vanilla
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__1 Vanilla, Musk, Pacsuli
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Cedar, Woody Notes, Amber, Vanilla, Musk
+__label__1 Woody, Oriental, Musky
+__label__0 Cashmere Wood, Musk
+__label__7 Balsa Wood, Haitian Vetiver, Laotian Benzoin
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Patchouli
+__label__2 Styrax, Benzoin
+__label__0 Effervescent Citrus
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__0 Dry Amber, Madagascar Vanilla, Patchouli, Cashmere, Dry Amber
+__label__1 Virginia Cedar, Incense
+__label__1 Vanilla, Sandalwood, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__9 Tonka Bean, Guaiac Wood
+__label__7 Tobacco, Leather, Tonka Bean
+__label__0 Indian Patchouli, amber, woody notes, leather
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__0 Vanilla Pods from Madagascar, White Musk
+__label__1 Plants, Musk, Red Woods
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__1 Caramel, Vanilla, Patchouli
+__label__8 Vanilla, Benzoin, Musk, Amber
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__5 Floral Ambery Woody
+__label__1 Apricot, Amber, Lemon Tree
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__0 Woody, Amber, Vanilla
+__label__12 Cedar Wood, Fir, Patchouli
+__label__0 Praline, Coconut Salt, Suede, Musk
+__label__3 Ambery, Cedar wood
+__label__1 Mandarin Orange, Agarwood
+__label__0 Incense, Benzoin
+__label__2 Neroli, Orange Blossom, Earthy Vetiver, Saffron
+__label__8 Haitian Vetiver, Vintage Vanilla, Golden Amber
+__label__5 Amber, Patchouli, Suede
+__label__4 Patchouli, Amber
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Iris, Vanilla
+__label__17 Damascus, Centifolia Rose
+__label__1 Amber, Musk, Mahogany
+__label__0 Sandalwood, Amber, Patchouli, Oakmoss, Vetiver
+__label__2 Ebony, Woody Notes
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__0 Sandalwood, Amber, Musk, Vanilla, Oakmoss, Cedar
+__label__3 Sandalwood, Benzoin, White Musk
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Honey, Sandalwood, Tonka, Bean, Amber, Musk, Civet, Vanilla, Oakmoss
+__label__7 Ginger, Jasmine, Juniper, Nutmeg, Pepper, Violet, Whisky
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Patchouli, Amber
+__label__7 Labdanum, Sandalwod, Patchouli, Vetiver, Incense, Cedar, White Musk
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Vanilla, Cedar
+__label__2 Sensual Addiction Of The Tonka Bean Note
+__label__1 Gardenia
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__7 Vetiver, Suede, Ambergris
+__label__9 Cedar, Musk
+__label__1 White Musk, Woody Notes, Madagascar Vanilla
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__0 Rare Wood, Amber Fat, White Musk
+__label__1 Vanilla, Iris, Sandalwood
+__label__3 Sandalwood, Amber, Cedar, Oakmoss
+__label__1 Patchouli, Black Musk, Vetiver, Moss
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__0 Ambergris, Civet, Musk, Cedar Wood, Sandalwood
+__label__0 Moss, Agarwood, Amber, Atlas Cedar
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Labdanum, Sandalwood, Musk, Guaiac Wood, Vetiver, Incense
+__label__0 Cypress, Amber, Musk, Cedar
+__label__1 Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Cedar, Tobacco.
+__label__0 Amber, Musk, Platanus, Saffron, Woody Notes
+__label__3 Cashmere Woods, Madagascar Vanilla, Burnt Amber, Australian Sandalwood
+__label__3 Sandalwood, Tonka,  Evernyl
+__label__1 Cedar, Sandalwood, Vanilla, Tonka Bean
+__label__2 Musk, Vetiver
+__label__1 Amberwood, Cashmere Wood, Cypress, Sandalwood, Vanilla
+__label__5 Leather, Sandalwood, Tonka Beans
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__1 Cedar, Vanilla, Raspberry
+__label__3 Natural Oud Oil, Patchouli
+__label__5 Nutmeg, Oakmoss, Sandalwood
+__label__1 Musk, Patchouli
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__1 Patchouli, Sandalwood
+__label__1 Guimave, Vanilla, Heliotrope, Sandalwood
+__label__3 Amber, Cactus, Cotton
+__label__5 Amber, Musk, Sandalwood
+__label__5 Vanilla, Blackberry, Amber
+__label__1 Golden Woods, Cedar, Cashmere, Musk, Vanilla, Caramel
+__label__1 Patchouli, White Honey, Amber
+__label__5 Patchouli, White Leather
+__label__6 Tonka Bean, Patchouli, Opoponax, Vanilla, Vetiver, White Musk
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__4 Musk, Sandalwood, Virginia Cedar, Amber, Nutmeg, Vanille, Orris Root
+__label__7 Vanilla, Musk, Woody Accords
+__label__2 Amber, Patchouli, Vanilla, Musk
+__label__1 Incense, Gaïac Wood, Amber
+__label__0 Sandalwood, Vanilla, Musk
+__label__5 Amber, Woody Notes
+__label__1 Cedar, Woody Notes
+__label__1 Sandalwood, Patchouli, Musk
+__label__7 Patchouli
+__label__1 Virginia Cedar
+__label__3 Tonka Bean, Woody Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__0 Sandalwood, Vetiver , Guaiac Wood
+__label__0 Vetiver, Patchouli
+__label__0 Guaiac Wood, Oakmoss, Patchouli, Ambergris
+__label__1 Pearl Musk, Sandalwood, Patchouli
+__label__2 Voluptuous Sensuality, Living Temple Incense, Amber, Vanilla Bean, Toffee, Tonka Bean
+__label__2 Sandalwood, Musk, Amber
+__label__2 Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver, Oakmoss
+__label__7 Musk, Vanilla, Woody Notes
+__label__3 Patchouli, Tonka Beans, Velvet, Woody Notes
+__label__0 Musk
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__0 Amber, Cedar, Musk, Tonka Beans, Moss
+__label__0 Aldehyde, Jasmine, White Flowers
+__label__4 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__7 woody notes, patchouli, cedar
+__label__0 Ebony Wood
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__6 Vanilla, Musk
+__label__2 Sweet Wood
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__1 Patchouli, Moss, Woody-Amber, Sandalwood, Musk, Dry Woods.
+__label__1 Patchouli, Vanilla, Moss
+__label__8 Sandalwood, Musk
+__label__5 Jasmine
+__label__0 Leather, sandalwood, amber, patchouli, musk, oakmoss, cedar
+__label__8 Tonka Bean, Patchouli
+__label__3 Vetiver, Sandalwood, Cedar, Tonka Bean
+__label__4 rose
+__label__2 Styrax, Benzoin
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__18 balsamic
+__label__1 Patchouli, Virginia Cedar
+__label__7 Amber, Red Cader, Vanilla
+__label__0 Aldehyde, Jasmine, White Flowers
+__label__3 Sandalwood, amber, musk
+__label__2 Amber, Musk, Jasmine
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__1 Amber Accord, Sandalwood
+__label__2 Musk, Tonka Bean, Incense, Saffron
+__label__1 Sandalwood, Musk, Patchouli
+__label__3 Cashmeran, Fir
+__label__6 Rose, Vanilla, Ginger
+__label__0 Musk, Amber, Wood
+__label__4 Amber, Patchouli, Musk
+__label__5 Leather, Tonka Bean, Musk, Cedar
+__label__1 White Musk, Blackberry, Raspberry, Amber
+__label__3 Ambergris, Amber, Salt
+__label__1 Amber, Cedar, Leather, Vetiver, Patchouli, Roots
+__label__1 Floral, Fruity, Musky
+__label__0 Pine Tree, Cypress, Laurels
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber, Patchouli
+__label__0 Leather, Vetiver, Tonka Bean
+__label__2 Roasted Tonka Grain, Laos Benzoin
+__label__1 Honey, Sandalwood, Vetiver
+__label__0 Cashmere Wood, Musk
+__label__0 Leather, tonka bean, amber, musk, oakmoss
+__label__0 Patchouli, Sandalwood
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Amber, Musk, Cashmere Wood
+__label__4 Patchouli, Vanilla Leather
+__label__7 Vetiver, Sandalwood, Musk, Amber
+__label__0 Absolute Vanilla Orchid Tahitensis, Praline, Patchouli, Papyrus
+__label__12 Vetiver, Oakmoss, Leather, Myrrh, Civet, Tonka Bean, Amber
+__label__1 Woody Notes
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__1 Akigalawood
+__label__1 Amber, Musk, Mahogany
+__label__2 Lemon, Mint, Wood Moss
+__label__0 Vetiver, Patchouli
+__label__1 Leather, Vanilla Pod, Amber
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__3 Vetyver, French Labdanum, Patchouli, Tonka Bean
+__label__5 Oakmoss, Musk, Leather, Patchouli
+__label__1 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__0 Ebony Wood
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__6 Woody Leather, Musk
+__label__1 Patchouli, Oak Moss, Leather
+__label__0 Musk, Lactone, Woody Amber
+__label__3 Sandalwood, Amber, Patchouli, Musk, Coconut
+__label__3 Oakmoss, Cedar, Nutmeg, Woody Notes
+__label__1 White Musk, White Woods, Vanilla orchid
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__3 Amber, Patchouli, Woodsy Notes, Musk
+__label__9 Musk, Sandalwood, Vanilla
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__3 Sandalwood, Tonka, Evernyl
+__label__3 Sandalwood, Tonka Bean
+__label__3 Patchouli, Amber
+__label__1 Musk, Vanilla, Amberwood
+__label__0 Black Violet, Liquid Amber, Mahogany, Cream Accords
+__label__3 Guaiac Wood, Benzoin
+__label__0 Vanilla, Musk
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__5 Moss, Sandalwood, Coumarin
+__label__5 Amber, Musk, Sandalwood, veti
+__label__1 White Musk, Amber, Vanilla, Sugar, Benzoin
+__label__1 Incense, Gaïac Wood, Amber
+__label__5 Caramel, Sandalwood, Tonka Beans, Vanilla
+__label__1 Cedar, Woody Notes
+__label__2 Sweet Wood
+__label__7 Patchouli, Cedar, Vetiver, Benzoin
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__2 Lemon, Mint, Wood Moss
+__label__2 Sandalwood, Benzoin, White Musk
+__label__4 Vanilla, Musk, Cedar, Sandalwood, Oakmoss, Amber, Vetiver
+__label__1 Ambergris, Musk
+__label__7 Vetiver, Sandalwood, Musk, Amber
+__label__3 Amber, Patchouli, Agarwood, Myrrh, Labdanun
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__0 Gray Amber, Musk
+__label__1 Black Musk, Moss, Patchouli
+__label__4 Oak Moss, Rich And Musty Oud
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__0 Musk, Sandalwood, Patchouli, Oak Moss, Virginia Cedar, Amber, Leather
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Skin Accord, Tonka Bean
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__3 Cashmere Wood, Moss, Rippled Sand Accord
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__3 Cedar, Ambroxan
+__label__2 Ambroxan, Vanilla
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__6 Cedar, labdanum, ambroxan
+__label__0 Musky Woody
+__label__1 Caramel, Cashmere, Vanilla, White Musk
+__label__1 Patchouli, Amber, Musk, Vanilla, Woodsy Note
+__label__8 Cedarwood, Vanilla, Musk
+__label__6 Amber, Incense, Sandalwood, Patchouli, Agarwood (oud)
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss, Green Tea, Green Accord
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__3 Sandalwood
+__label__8 Musk
+__label__3 Leather
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__5 Oakmoss, Musk, Patchouli, Leather
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__1 Amber, patchouli, vanilla, musk, sandalwood
+__label__1 Patchouli, Amber, Musk
+__label__3 Amber, Cactus And Cotton Flower
+__label__8 Vanilla, Sugar, White Musk, Cedar
+__label__4 Vetiver, Sandalwood, Cedar, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Ambergris, Cashmere wood, Sandalwood
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__1 Sandalwood
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__16 Sandalwood, Cedarwood
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__5 Sandalwood, Musk
+__label__8 Ambroxan, Benzoin, Woodsy Notes, Vanilla
+__label__4 Woody Amber, Cedar Accords
+__label__1 Vanilla, White Musk
+__label__2 Cistus, Myrrh, Oud, Amber
+__label__2 Tolu Balsam, Sandalwood, Amber
+__label__1 Vanilla, Woodsy Notes
+__label__1 Virginia Cedar, Vanilla, Amber
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__0 Vetiver and Patchouli
+__label__1 Musk, Raspberry
+__label__1 Patchouli, Tonka Bean, Vanilla, Praline
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__2 Jasmine, Wisteria
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__3 Leather, Woody Notes
+__label__3 Vetiver, Sandalwood, Amber
+__label__1 Cedar, Vanilla, Patchouli
+__label__1 Madagascar Vanilla Absolute, Ambergris
+__label__1 Blackberry, Sensual Musk
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__18 Vanilla, Ambergris, Musk, Patchouli
+__label__7 Musk, Sandalwood
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__1 Sandalwood, Musk
+__label__5 Labdanum, Musk
+__label__3 Labdanum, Ceder
+__label__1 Sandalwood, Vetiver, Vanilla, Peru Balsam
+__label__3 Woody, Spicy
+__label__6 Rose, Vanilla, Ginger
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Virginia Cedar
+__label__1 Sandalwood, Amber, Vanilla
+__label__6 Woody, Musk, Amber
+__label__1 Patchouli, Vanilla, Ambroxan, Woody Notes
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__1 Oakmoss, Musk, Black Currant
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Cashmere Woods
+__label__3 Amber, Cedar, Toacco
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__3 Leather
+__label__1 White Musk, Vanilla
+__label__0 Amber, musk
+__label__0 Amber, Musk, Vanilla
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__11 Ambery Woods
+__label__1 Patchouli,Cashmeran,Tonka bean, Almod milk
+__label__2 Benzoin, Tonka Bean, Vanilla
+__label__0 Cypress, Amber, Musk, Cedar
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__0 Woody Notes, Vetiver
+__label__5 Caramel, Patchouli, Rum, Sandalwood, Vanilla
+__label__5 Sandalwood, Cashmerean, Musk, Amber, Vanilla
+__label__12 Gaiac Wood
+__label__1 Iris, Vanilla
+__label__5 Vetiver, Moss, Sandalwood, Musk, Black Currant
+__label__5 Oakmoss, Sandalwood, Civet, Cedarwood, Musk, Orris, Tonka Bean
+__label__0 Patchouli, Amber, Sandalwood, Vetiver, Benzoin, Cinnamon
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__1 Musk, Cashmere Wood, Vetiver
+__label__0 Amber, Guaiac Wood, Leather, Lichen, Musk
+__label__1 Lily Of The Valley, Woody, Musky
+__label__4 Geranium, Amber, White Musks
+__label__1 Musk, Sandalwood, Lemon Tree
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Lily, Wild Strawberry
+__label__3 Sandalwood, Tonka Bean
+__label__12 Oakmoss, Sandalwood, Patchouli, Labdanum
+__label__1 Ambrette Seeds, Tonka Beans, Musk
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__3 Patchouli, Sandalwood
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__3 Creamy Amber
+__label__0 Vetiver, Leather, Cedarwood
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__3 Amber, Frankincense, Musk, Patchouli, Vanilla, Vetiver
+__label__0 Suede, Cedar Essence, Black Tea, Woody Notes
+__label__0 Tobacco, Oakmoss, Musk
+__label__15 Sandalwood, Musk, Vetiver, Cedar
+__label__6 Vanilla, Musk, Labdanum
+__label__7 Virginia Cedar, Amber
+__label__0 White Musk, Sandalwood, Vanilla
+__label__0 Cedar, Vetiver
+__label__0 Musk, Sandalwood, Cedar, Oakmoss
+__label__1 Dry Amber, Vanilla
+__label__5 Musk, Amber, Vanilla, Woody notes
+__label__0 Patchouli, Vanilla, Musk
+__label__9 Patchouli, Sandalwood
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__2 Cedar Wood, Patchouli, Vanilla, Leather, Vetiver, Labdanum, Musk
+__label__5 Musk, Plum, Cedarwood
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__1 Musk
+__label__3 Aromatic Scents
+__label__2 oud
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__4 Roasted Cocoa
+__label__1 Tonka Bean, Orchid, Sandalwood Vetiver, Iris Ambergris
+__label__1 Floral, Musky
+__label__1 Amberwood, Cedar, Chestnut, Vanilla
+__label__1 Vanilla, Musk, Labdanum
+__label__1 Patchouli, Vetiver
+__label__5 Patchouli, Cedar, Amber, Tonka, Vanilla
+__label__0 Amber, Musk, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Silver Moss, Mineral Amber, Musk
+__label__1 Birch, Vetiver, Amber
+__label__0 Patchouli, musk, vanilla, amber
+__label__5 Musk, Sandalwood, Vanille
+__label__1 Woody, Oriental, Musky
+__label__4 Woody Amber, Cedar Accords
+__label__0 Cedar Wood
+__label__0 Patchouli, sandalwood, musk, amber
+__label__7 Cashmere Wood, Tonka Bean, Orcanox
+__label__1 Wood, Musk
+__label__6 Vanilla, Musk, Labdanum
+__label__2 Guaiac Wood, Woodsy Notes, Virginia Cedar, Amber, Vanilla
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Cedarwood, Patchouli, Sandalwood, Benzoin
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__5 Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__8 Luid Sandalwood, Jasmine, Amber, Vanilla
+__label__5 Coconut, Musk, Sandalwood
+__label__6 Sandalwood, Cedar, Vanilla
+__label__1 Patchouli, Sandalwood
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__18 Milk, Sandalwood, Cardamom
+__label__1 Virginia Cedar, Incense
+__label__0 Sandalwood, Amber, Musk, Vanilla
+__label__6 Incense, Musk, Tonka Bean, Saffron
+__label__3 Sandalwood, Amber, Coconut, Patchouli, Vanilla, Cedar
+__label__18 Jasmine, Amber, Balsamic
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__1 Musk, Woody Accord
+__label__2 Sandalwood, Amber, Patchouli, Musk, Benzoin, Caramel, Vetiver, Vanilla
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__0 Haitian Vetiver, Tonka Bean, Amberwood
+__label__3 Lamon, Woody
+__label__0 Wood, Almond
+__label__0 Burnt Amber, Cashere Woods, Vanilla, Sandalwood
+__label__5 Musk, Grey Amber, Inoki Wood
+__label__1 Amber, Musk, Powdery Notes, Cedar, Sandalwood
+__label__1 Cashmeran, Amber, Musk
+__label__1 Dry Amber, Vanilla
+__label__0 Sandalwood, Amber, Patchouli, Civet, Oakmoss Vetiver
+__label__2 Agarwood, Amber
+__label__0 Vanilla, Musk
+__label__1 White Amber, Woods
+__label__1 Amber, Vanilla, Ambergris, Musk
+__label__7 Amber, palisander rosewood
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__6 Patchouli, Fir, Cedar
+__label__2 Vetiver, Sandalwood, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Amber, Incense, Guaiac Wood
+__label__3 Woody Notes, Tonka Bean
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__5 Delicate Musky Sensual Woods
+__label__1 Woody Notes, Musk
+__label__1 Cedar, White Musk
+__label__3 Cedarwood, Patchouli, Vetiver, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__0 Woody Notes, Vetiver
+__label__1 Rose, Sensual Musk
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Patchouli
+__label__2 Tonka Bean, Cacao, Vanilla, Praline, Sandalwood, Amber, Cashmere Wood, Musk, Patchouli, Cinnamon, Cedar
+__label__0 Leather, Oakmoss, Amber
+__label__1 Leather, Musk
+__label__3 Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__1 Virginia Cedar
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__0 Vetiver, Vanilla
+__label__5 Cacao
+__label__14 Leather, Oakmoss, Vanilla, Woody Notes
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__0 Leather
+__label__0 Amber, Leather
+__label__1 Neroli, Rose
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__1 Patchouli, Vanilla And Honey
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__7 Sandalwood, Patchouli
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Amber Milk, Mousse Australian, Sandalwood, Vanilla
+__label__0 Amber, patchouli, vanilla, musk, sandalwood
+__label__0 Honey, Amber, Musk, Oakmoss
+__label__3 Tobacco, Patchouli, Vetiver
+__label__1 White Wood, Musk, Amber, Cedar, Violet
+__label__0 Amber, Sandalwood, Patchouli
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cedar
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__2 Iris, Jasmine, Sweet Vanilla, Patchouli
+__label__1 Vetiver, Sandalwood, Cashmere, Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__12 Woody, Masculine, Cedarwood, Vetiver, Patchouli Accords
+__label__0 Cashmere Wood, Agarwood (Oud), Labdanum, Patchouli, Ebony Tree, Musk, Madagascar Vanilla, Suede
+__label__3 Amber, Musk
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__7 White Musk, Vetiver, Cedar
+__label__0 Leather, Cedar, Vetiver
+__label__3 Creamy Amber
+__label__1 Amber, Musk, Patchouli, Woody Notes
+__label__7 Frankincense, Musk, Saffron, Tonka Beans
+__label__1 Patchouli, Woods, Amber, Orcanox, Vanilla
+__label__6 Honey, Patchouli
+__label__7 Woodsy Notes, Vetiver
+__label__0 Leather, Suede, Cedar
+__label__8 Sandalwood, Musk
+__label__2 Cashmere Wood, Amber, Musk
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__5 Cedar, Musk, Patchouli, Wood
+__label__1 Oined with Damascus, Centifolia Rose
+__label__1 Tonka bean, amber, benzoin, cedar
+__label__3 Violetwhite Wood, Musk, Amber, Cedar, Violet
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__2 Ebony, Woodsy Notes
+__label__5 Lemon Tree, Musk, Sandalwood
+__label__5 Amber, Musk, Cashmere Wood
+__label__7 Patchouli, Brown Sugar Accord
+__label__0 Warm Amber, Musk, Tonka Bean
+__label__1 Tonka Bean, Vanilla, Olibanum
+__label__2 Cedar, Tonka Bean
+__label__0 Sandalwood, Oakmoss, Musk
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__0 Louro Amarelo Wood, Sandalwood, Musky Notes
+__label__1 Musk, Sandalwood, Patchouli, Oakmoss, Cedar, Pepper, Pine Tree
+__label__2 Cedar, Oakmoss, Vanilla, Vetiver
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__1 Patchouli, Sandalwood
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__1 Musk, Wood
+__label__0 Leather
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__3 Sandalwood, Tonka Bean
+__label__2 Amber, Musk, Jasmine
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__1 Amber, Civet, Honey, Lichen, Musk, Sandalwood, Tonka Beans, Vanilla
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__7 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__1 Amber, Cedar, Musk
+__label__3 Patchouli, Vetiver, Moss
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__6 Wood, Cedar Wood, Patchouli, Animal, Sandalwood
+__label__1 Marshmallow, Sandalwood, Vanilla
+__label__5 Amber, Vanilla, Musk
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Musk, Moss
+__label__13 Sandalwood, Cedarwood
+__label__7 Benzoin, Olibanum, Patchouli, Suede
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__1 Musk, vanilla
+__label__4 Violet Root, Iris, Nectarine, Peach Blossom, Rose Hip Red Cyclamen, Blue Hyacinth
+__label__1 Vetiver, White Cedar Extract, Cedar
+__label__3 Cedarwood, Patchouli, Vanilla
+__label__1 Cedarwood
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Vetiver, Vanilla
+__label__0 Leather, amber, musk, oakmoss, balsam fir, vetiver, incense, cedar
+__label__1 Vanilla, Amber
+__label__1 Cashmere, Sandalwood, Ambergris
+__label__6 Chocolate,cashmere Wood, Patchouli, Tonka Bean
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Musk, Oakmoss, Agarwood, Leathery
+__label__5 Amber, Caramel, Vanilla, Sandalwood
+__label__4 Apricot, Amber, Lemon Tree
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__1 Vanilla, Amber
+__label__7 Guaiac Wood, Patchouli Heart
+__label__1 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Amber, Labdanum, Leather, Musk, Tonka Beans, Vanilla
+__label__1 Vanilla, Amber, Patchouli, Sandalwood
+__label__3 Cedar, Sandalwood, Musk, Amber
+__label__12 Leather, Benzoin, Tonka
+__label__1 Indonesian Patchouli Essence, Indian Sandalwood, Amber, Vanilla
+__label__1 Patchouli, Woody Notes, Musk
+__label__7 Leather, Tobacco, Tonka Bean
+__label__0 Blonde Leather Patchouli White Woods Amber
+__label__1 Amber, Cashmere Wood, Musk
+__label__0 Labdanum Rum
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Amber, Vanilla, Clove, Iris, Musk, Sandalwood
+__label__0 Ambroxan, Akigalawood, Indonesian Patchouli Leaf, Cacao Pod
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__1 Wood, Musk
+__label__6 Musk
+__label__3 Tonka Bean, Amberwood, Cacao
+__label__7 Patchouli, Sandalwood
+__label__2 Musk, Amber, Patchouli, Papyrus
+__label__1 Golden Woods Musk
+__label__7 Georgywood, Suede, Vetiver, Cedarwood
+__label__1 Vanilla, Patchouli, Massoia Wood
+__label__7 Sandalwood, patchouli, amber
+__label__1 Cedar, Sensual Benzoin
+__label__1 Sandalwood, Vetiver, Vanilla, Amber, Musk
+__label__4 Amber, Musk, Oakmoss, Agarwood (Oud)
+__label__1 Musk,  Sandalwood,  Cedar,  Vanilla,  Opoponax,  Amber
+__label__5 Tobacco, Amber, Cedar
+__label__0 Sandalwood, Oak Moss, Vetiver
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__0 Sandalwood
+__label__2 oud
+__label__1 Ambery Woody
+__label__1 Vanilla, Musk, Sandalwood, Guaiac Wood, Amber
+__label__2 Cedar, Tonka Bean
+__label__9 Tail Rose
+__label__6 Amber, Musk, Sandalwood, Coumarin, Vanilla
+__label__5 Tonka Bean, Sensual, Rich, Creamy Buttery Lactonic Caramel
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__0 Black Amber, Patchouli
+__label__3 Incense, Amber, Leather, Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__0 Ginger, Fir Resin, Nutmeg, Amber
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__3 Woodsy, Tonka Bean
+__label__6 Moss, Musk, Vetiver
+__label__0 Agarwood, Patchouli, Leatherwood
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__1 Patchouli, Amber, Musk
+__label__1 Cuddly, Creamy Rosewood
+__label__7 Sandalwood, Amber, Musk, Cedar, Oak moss
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Musk, Woody Notes
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Coconut Accords, Wood, Musk
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__7 Virginia Cedar, Amber
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__0 Cedar Wood, Tonka Beans, Vetiver
+__label__1 Musk, Patchouli, Sandalwood
+__label__1 Cedar, Amber
+__label__5 Jasmine
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Woodsy Notes
+__label__1 Liquid Amber, Black Violet, Cream, Mahogany
+__label__1 Patchouli, Earthy, Dry Amber
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__7 Powdery Vanilla, Musk, Woody Accords
+__label__1 Almonds, Cedar, Oakmoss, Tonka Beans, Vanilla
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__0 Benzoin
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__0 Ebony Wood
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__5 White Musk, Blond Wood
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__3 Woody, Spicy
+__label__0 Amber Wood, Sandalwood, White Musk
+__label__1 Honey, Patchouli
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__3 Tonka Bean, Guaiac Wood, Benzoin
+__label__1 Green leaves of lily
+__label__1 Vanilla, Woodsy Notes, Sandalwood, Musk
+__label__7 Patchouli, Cedar, Vanilla, White Musk, Oak Moss
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__1 Apricot, Amber, Lemon Tree
+__label__17 Damascus, Centifolia Rose
+__label__1 Cuddly, Creamy Rosewood
+__label__0 Vetiver, Patchouli
+__label__6 Patchouli, Fir, Cedar
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__2 Sandal Wood, Vanilla, Tonka Bean, Amber, Musk
+__label__0 Musk, Incense, Amber, Resins, Woody Note
+__label__3 Musk, Sandalwood, Patchouli, Amber
+__label__20 White Musk, Amber, Vanilla, Sugar
+__label__1 Coriander
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__0 Guaiac Wood, Benzoin
+__label__5 Amber, Oakmoss, Cedar
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__0 Cedar, Tonka Bean, Musk, Leather, Sandalwood, Oakmoss
+__label__2 Woody Notes, Spices, Musk, Vanilla
+__label__3 Acacia Wood
+__label__0 Sandalwood, Cedarwood
+__label__1 Musk, Vanilla, Woody Notes
+__label__4 Amber
+__label__0 Leather, Suede, Cedar
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__7 Guaiac Wood, Patchouli Heart
+__label__6 Woodsy transparent with coffee, incense touches
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__2 Jasmine, Wisteria
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__4 Vetiver, Patchouli
+__label__1 Sandalwood
+__label__5 Cacao
+__label__3 Guaiac Wood, Benzoin
+__label__8 Amber, Woods, Musk, Patchouli, Sandalwood, Vanilla
+__label__1 Woody Notes, White Musk, Amber
+__label__0 Musk, Cashmere Wood
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__9 Musk, Patchouli, Amber
+__label__9 Red Cedar White Musk, Patchouli
+__label__1 Amber, Orris, Sandalwood
+__label__12 Sandalwood, Oakmoss, Tonka Beans, Virginia Cedar, Vetiver, Musk
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__0 Benzoin
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__1 Aromatic Cedarwood, Tonka, Amber, Vetiver
+__label__2 Vanilla, Ambra
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__3 Apricot, amber, lemon tree
+__label__3 Tonka Bean, Woody Notes
+__label__5 Vegetal Amber, Musk, Mahogany
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__0 Australian Sandalwood, Musk, Vanilla
+__label__1 Amber, Tibetan Musk, Sandalwood, Iris, Vanilla
+__label__3 Amber, Cactus, Cotton Plant Blossom
+__label__4 Cedar, Vetiver, Patchouli, Sandalwood, Ambergris, Musk
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__0 Cedar Wood
+__label__6 Sandalwood, Musk, Vanilla Orchid, Cedar
+__label__7 Ambergris, musk
+__label__1 Joshua Tree, Ambroxan
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cashmeran, Suede, Musk
+__label__1 Sandalwood, Cashmere, Ambergris
+__label__3 Labdanum, Cedar
+__label__0 Cedarwood, Tonka Bean
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Cedar, Vanilla, Patchouli
+__label__0 Benzoin, Guaiac Wood, Tonka Beans
+__label__1 White Musk, Sandalwood
+__label__1 Woody, musky
+__label__1 Sandalwood, Caramel, Beeswax, Patchouli
+__label__2 Vanilla, Tonka Bean, Iris, Sandalwood, Musk, Amber, Vetiver, Cedar, Patchouli
+__label__4 Patchouli, Caramel, Amber, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Guaiac Wood, Musk, Vanilla
+__label__1 Amber, Patchouli
+__label__0 Indonesian Patchouli, Oakmoss
+__label__1 Oakmoss, Amberwood, Patchoulli, Sandalwood, White Musk
+__label__1 Orris Root, Musk, Vanilla
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__1 Patchoulie, Musk, Schijnhulst
+__label__5 Cypress, Cashmere Wood, Amberwood, Sandalwood
+__label__5 Musk, Vanilla
+__label__4 Amber
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__0 Sandalwood, Olive Tree, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Cashmeran, Ambroxan, Musk
+__label__1 Lily, Wild Strawberry
+__label__0 Opoponax, Patchouli, Tonka Beans, Vanilla, Vetiver, White Musk
+__label__0 Musk, Amber, Wood
+__label__3 Amber, Woody
+__label__1 Leather, Oakmoss, Amber
+__label__5 Cacao
+__label__1 Vetiver, Musk, Ambroxan
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__3 Incense, Lotus, Patchouli, Sandalwood, Vanilla, Vetiver
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__9 Tonka Bean, Guaiac Wood
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__1 Rangoon Creeper
+__label__1 Amber, Benzoin, Cedar, Tonka Beans
+__label__6 Musk, Balsam Fir
+__label__3 Guaiac Wood, Benzoin
+__label__2 Sandalwood, Leather note, Amber notes, Oud, Muscs note
+__label__6 Sandalwood, Musk, Amber
+__label__4 Sandal Wood, Musk, Vetiver
+__label__1 Virginia Cedar
+__label__3 Musk, Patchouli, Amber, Tobacco
+__label__1 Rangoon Creeper
+__label__1 Cotton Candy, Musk, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__3 Amber, Moss, Musk, Vanilla, Vetiver
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__0 Cedar, Benzoin, Suede Accord
+__label__0 Sandalwood, Tonka Bean, Amber, Coconut, Vanilla, Oak Moss, Cedar, Styrax
+__label__3 Leather, Papyrus
+__label__0 Vetiver, Ceder, WhiteMusk
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__6 Musk, Vanilla
+__label__4 Vanilla, Amber
+__label__0 Vanilla, Sandalwood, Vetiver, Cedarwood, Olivewood, Amber-like-notes, Musk-like-notes
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Powdery Vanilla, Musk, Woody Accord
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__6 Patchouli, Fir, Cedar
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__18 Rose, Geranium, Jasmine, Tea
+__label__2 Vanille, Tonka Bean
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__0 Cashmere Wood, Musk
+__label__4 Sugar, Vanilla, Cedar, White Musk
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__1 Bergamot, Gardenia, Pelargonium, Cotton Candy, Flowers
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__8 Musk, White Wood
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__9 Cedar, Musk
+__label__3 Paraguayan Lignum Vitae, Indonesian Patchouli, Laotian Benzoin, Copper Accords
+__label__1 Woody Notes, Musk
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__3 Patchouli
+__label__1 Sandalwood, Patchouli, Amber, Vetiver, Sensual Musk
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__3 Musk, Patchouli, Cedar Wood
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__0 Musk, Amber, Wood
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__2 Jasmine, Wisteria
+__label__1 Amber, Precious Musk, Guaiac Wood
+__label__7 Vetiver, Cedar, White Musk
+__label__0 Cedar, Musk, Sandalwood
+__label__6 Rose, Vanilla, Ginger
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__1 Maple, Vanilla Styrax, Benzoin
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__0 Sandalwood, Cedar, Amber, Labdanum
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Sandalwood, Amber, Musk, Vanilla, Oak Moss, Cedar
+__label__0 Vetiver
+__label__1 Patchouli, Amber, Musk
+__label__1 Amber, Virginia Cedar
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__3 Patchouli, Cedar, Vetiver, Frankincense, Musk, Tonka Bean
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__0 Patchouli, Virginia Cedar, Benzoin, Agarwood, Leather, Raspberry
+__label__19 Tobacco, Amber, Guaiac Wood, Sandalwood, Haitian Vetiver, Madagascar Vanilla, White Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__7 cypress, amber, musk, cedar
+__label__2 Sandalwood, Vanilla, Amberwood
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__5 Cedar, Musk, Patchouli, Sandalwood
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__2 Vetyver, Amber, Musk, Oakmoss
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Cashmere Wood, Musk
+__label__1 Musk Wood, Incense, Oakmoss
+__label__5 Suede Musk Sandalwood Cashmeran
+__label__3 Leather, Benzoin, Incense, Cedar, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__10 Marshmallow, Vanilla, Sandalwood, Heliotrope
+__label__2 Amber, Palisander Rosewood
+__label__4 Vanilla, Amber
+__label__1 Sandalwood, Musk, Vanilla
+__label__5 Cedar, Amber, Musk, Vanilla
+__label__1 Honey, Sandalwood, Tonka Bean, Amber, Musk, Civet, Vanilla, Oakmoss, Vetiver
+__label__4 Amber, Patchouli, Musk
+__label__5 Cedar, Leather, Amberwood, BenzoinTolu,  Balsam Vetiver
+__label__3 Sandalwood, Cedar, Vetiver, Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__12 Cedar Wood, Fir, Patchouli
+__label__5 Oak moss, musk, ambergris, vanilla
+__label__0 Cashmere Wood, Musk, Amber, Vanille
+__label__8 Musk, Praline, Tonka Beans, Vanilla, Vetiver
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__7 woody notes, patchouli, cedar
+__label__0 White cedar, patchouli, amber wood, vanilla
+__label__1 Patchouli, Beeswax, Caramel, Licorice
+__label__5 Violet Leaf, Tahiti Tonka, Light Wood
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__3 Vanilla Absolute, Sandalwood, White Musk
+__label__2 Tonka Bean, Cocoa
+__label__0 Haitian vetiver, tonka bean, amberwood
+__label__0 Wood, Almond
+__label__6 Musk, Oakmoss, Cedar, Tobacco, Amber
+__label__5 Floral Ambery Woody
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__0 Tonka Bean, Tahitian Vetiver, Cedar
+__label__3 Amber, Woody
+__label__1 Patchouli, Sandalwood, Vanilla, White Musk
+__label__1 Vanilla, Musk
+__label__3 Leather, Moss, Patchouli
+__label__8 White Musk, Woody Notes, Madagascar Vanilla
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__1 Ambergris, vanilla, leather tonka bean, patchouli, musk, sandalwood, cedar, plum, styrax, oakmoss
+__label__2 Amber, Musk, Sandalwood
+__label__6 Amber, Musk, Sandalwood
+__label__1 Patchouli, Vetiver
+__label__1 Patchouli, Musks, Osmanthus
+__label__1 Amber, Orris, Sandalwood
+__label__1 Sandalwood, Vetiver, Rosewood, Ambergris
+__label__6 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__4 Sandalwood, California Cedar, Vanilla, Musk
+__label__0 Vetiver, Patchouli
+__label__3 Cedar, Olibanum, Vetiver
+__label__1 Powdery
+__label__5 Musk, Plum, Cedarwood
+__label__1 Sandalwood, Patchouli
+__label__5 Musk, Vanilla
+__label__7 Woody, Musk, Vanilla
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__1 Vanilla, Musk, Pacsuli
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Cedar, Woody Notes, Amber, Vanilla, Musk
+__label__1 Woody, Oriental, Musky
+__label__0 Cashmere Wood, Musk
+__label__7 Balsa Wood, Haitian Vetiver, Laotian Benzoin
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Patchouli
+__label__2 Styrax, Benzoin
+__label__0 Effervescent Citrus
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__0 Dry Amber, Madagascar Vanilla, Patchouli, Cashmere, Dry Amber
+__label__1 Virginia Cedar, Incense
+__label__1 Vanilla, Sandalwood, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__9 Tonka Bean, Guaiac Wood
+__label__7 Tobacco, Leather, Tonka Bean
+__label__0 Indian Patchouli, amber, woody notes, leather
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__0 Vanilla Pods from Madagascar, White Musk
+__label__1 Plants, Musk, Red Woods
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__1 Caramel, Vanilla, Patchouli
+__label__8 Vanilla, Benzoin, Musk, Amber
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__5 Floral Ambery Woody
+__label__1 Apricot, Amber, Lemon Tree
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__0 Woody, Amber, Vanilla
+__label__12 Cedar Wood, Fir, Patchouli
+__label__0 Praline, Coconut Salt, Suede, Musk
+__label__3 Ambery, Cedar wood
+__label__1 Mandarin Orange, Agarwood
+__label__0 Incense, Benzoin
+__label__2 Neroli, Orange Blossom, Earthy Vetiver, Saffron
+__label__8 Haitian Vetiver, Vintage Vanilla, Golden Amber
+__label__5 Amber, Patchouli, Suede
+__label__4 Patchouli, Amber
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Iris, Vanilla
+__label__17 Damascus, Centifolia Rose
+__label__1 Amber, Musk, Mahogany
+__label__0 Sandalwood, Amber, Patchouli, Oakmoss, Vetiver
+__label__2 Ebony, Woody Notes
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__0 Sandalwood, Amber, Musk, Vanilla, Oakmoss, Cedar
+__label__3 Sandalwood, Benzoin, White Musk
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Honey, Sandalwood, Tonka, Bean, Amber, Musk, Civet, Vanilla, Oakmoss
+__label__7 Ginger, Jasmine, Juniper, Nutmeg, Pepper, Violet, Whisky
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Patchouli, Amber
+__label__7 Labdanum, Sandalwod, Patchouli, Vetiver, Incense, Cedar, White Musk
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Vanilla, Cedar
+__label__2 Sensual Addiction Of The Tonka Bean Note
+__label__1 Gardenia
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__7 Vetiver, Suede, Ambergris
+__label__9 Cedar, Musk
+__label__1 White Musk, Woody Notes, Madagascar Vanilla
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__0 Rare Wood, Amber Fat, White Musk
+__label__1 Vanilla, Iris, Sandalwood
+__label__3 Sandalwood, Amber, Cedar, Oakmoss
+__label__1 Patchouli, Black Musk, Vetiver, Moss
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__0 Ambergris, Civet, Musk, Cedar Wood, Sandalwood
+__label__0 Moss, Agarwood, Amber, Atlas Cedar
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Labdanum, Sandalwood, Musk, Guaiac Wood, Vetiver, Incense
+__label__0 Cypress, Amber, Musk, Cedar
+__label__1 Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Cedar, Tobacco.
+__label__0 Amber, Musk, Platanus, Saffron, Woody Notes
+__label__3 Cashmere Woods, Madagascar Vanilla, Burnt Amber, Australian Sandalwood
+__label__3 Sandalwood, Tonka,  Evernyl
+__label__1 Cedar, Sandalwood, Vanilla, Tonka Bean
+__label__2 Musk, Vetiver
+__label__1 Amberwood, Cashmere Wood, Cypress, Sandalwood, Vanilla
+__label__5 Leather, Sandalwood, Tonka Beans
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__1 Cedar, Vanilla, Raspberry
+__label__3 Natural Oud Oil, Patchouli
+__label__5 Nutmeg, Oakmoss, Sandalwood
+__label__1 Musk, Patchouli
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__1 Patchouli, Sandalwood
+__label__1 Guimave, Vanilla, Heliotrope, Sandalwood
+__label__3 Amber, Cactus, Cotton
+__label__5 Amber, Musk, Sandalwood
+__label__5 Vanilla, Blackberry, Amber
+__label__1 Golden Woods, Cedar, Cashmere, Musk, Vanilla, Caramel
+__label__1 Patchouli, White Honey, Amber
+__label__5 Patchouli, White Leather
+__label__6 Tonka Bean, Patchouli, Opoponax, Vanilla, Vetiver, White Musk
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__4 Musk, Sandalwood, Virginia Cedar, Amber, Nutmeg, Vanille, Orris Root
+__label__7 Vanilla, Musk, Woody Accords
+__label__2 Amber, Patchouli, Vanilla, Musk
+__label__1 Incense, Gaïac Wood, Amber
+__label__0 Sandalwood, Vanilla, Musk
+__label__5 Amber, Woody Notes
+__label__1 Cedar, Woody Notes
+__label__1 Sandalwood, Patchouli, Musk
+__label__7 Patchouli
+__label__1 Virginia Cedar
+__label__3 Tonka Bean, Woody Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__0 Sandalwood, Vetiver , Guaiac Wood
+__label__0 Vetiver, Patchouli
+__label__0 Guaiac Wood, Oakmoss, Patchouli, Ambergris
+__label__1 Pearl Musk, Sandalwood, Patchouli
+__label__2 Voluptuous Sensuality, Living Temple Incense, Amber, Vanilla Bean, Toffee, Tonka Bean
+__label__2 Sandalwood, Musk, Amber
+__label__2 Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver, Oakmoss
+__label__7 Musk, Vanilla, Woody Notes
+__label__3 Patchouli, Tonka Beans, Velvet, Woody Notes
+__label__0 Musk
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__0 Amber, Cedar, Musk, Tonka Beans, Moss
+__label__0 Aldehyde, Jasmine, White Flowers
+__label__4 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__7 woody notes, patchouli, cedar
+__label__0 Ebony Wood
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__6 Vanilla, Musk
+__label__2 Sweet Wood
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__1 Patchouli, Moss, Woody-Amber, Sandalwood, Musk, Dry Woods.
+__label__1 Patchouli, Vanilla, Moss
+__label__8 Sandalwood, Musk
+__label__5 Jasmine
+__label__0 Leather, sandalwood, amber, patchouli, musk, oakmoss, cedar
+__label__8 Tonka Bean, Patchouli
+__label__3 Vetiver, Sandalwood, Cedar, Tonka Bean
+__label__4 rose
+__label__2 Styrax, Benzoin
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__18 balsamic
+__label__1 Patchouli, Virginia Cedar
+__label__7 Amber, Red Cader, Vanilla
+__label__0 Aldehyde, Jasmine, White Flowers
+__label__3 Sandalwood, amber, musk
+__label__2 Amber, Musk, Jasmine
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__1 Amber Accord, Sandalwood
+__label__2 Musk, Tonka Bean, Incense, Saffron
+__label__1 Sandalwood, Musk, Patchouli
+__label__3 Cashmeran, Fir
+__label__6 Rose, Vanilla, Ginger
+__label__0 Musk, Amber, Wood
+__label__4 Amber, Patchouli, Musk
+__label__5 Leather, Tonka Bean, Musk, Cedar
+__label__1 White Musk, Blackberry, Raspberry, Amber
+__label__3 Ambergris, Amber, Salt
+__label__1 Amber, Cedar, Leather, Vetiver, Patchouli, Roots
+__label__1 Floral, Fruity, Musky
+__label__0 Pine Tree, Cypress, Laurels
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber, Patchouli
+__label__0 Leather, Vetiver, Tonka Bean
+__label__2 Roasted Tonka Grain, Laos Benzoin
+__label__1 Honey, Sandalwood, Vetiver
+__label__0 Cashmere Wood, Musk
+__label__0 Leather, tonka bean, amber, musk, oakmoss
+__label__0 Patchouli, Sandalwood
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Amber, Musk, Cashmere Wood
+__label__4 Patchouli, Vanilla Leather
+__label__7 Vetiver, Sandalwood, Musk, Amber
+__label__0 Absolute Vanilla Orchid Tahitensis, Praline, Patchouli, Papyrus
+__label__12 Vetiver, Oakmoss, Leather, Myrrh, Civet, Tonka Bean, Amber
+__label__1 Woody Notes
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__1 Akigalawood
+__label__1 Amber, Musk, Mahogany
+__label__2 Lemon, Mint, Wood Moss
+__label__0 Vetiver, Patchouli
+__label__1 Leather, Vanilla Pod, Amber
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__3 Vetyver, French Labdanum, Patchouli, Tonka Bean
+__label__5 Oakmoss, Musk, Leather, Patchouli
+__label__1 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__0 Ebony Wood
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__6 Woody Leather, Musk
+__label__1 Patchouli, Oak Moss, Leather
+__label__0 Musk, Lactone, Woody Amber
+__label__3 Sandalwood, Amber, Patchouli, Musk, Coconut
+__label__3 Oakmoss, Cedar, Nutmeg, Woody Notes
+__label__1 White Musk, White Woods, Vanilla orchid
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__3 Amber, Patchouli, Woodsy Notes, Musk
+__label__9 Musk, Sandalwood, Vanilla
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__3 Sandalwood, Tonka, Evernyl
+__label__3 Sandalwood, Tonka Bean
+__label__3 Patchouli, Amber
+__label__1 Musk, Vanilla, Amberwood
+__label__0 Black Violet, Liquid Amber, Mahogany, Cream Accords
+__label__3 Guaiac Wood, Benzoin
+__label__0 Vanilla, Musk
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__5 Moss, Sandalwood, Coumarin
+__label__5 Amber, Musk, Sandalwood, veti
+__label__1 White Musk, Amber, Vanilla, Sugar, Benzoin
+__label__1 Incense, Gaïac Wood, Amber
+__label__5 Caramel, Sandalwood, Tonka Beans, Vanilla
+__label__1 Cedar, Woody Notes
+__label__2 Sweet Wood
+__label__7 Patchouli, Cedar, Vetiver, Benzoin
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__2 Lemon, Mint, Wood Moss
+__label__2 Sandalwood, Benzoin, White Musk
+__label__4 Vanilla, Musk, Cedar, Sandalwood, Oakmoss, Amber, Vetiver
+__label__1 Ambergris, Musk
+__label__7 Vetiver, Sandalwood, Musk, Amber
+__label__3 Amber, Patchouli, Agarwood, Myrrh, Labdanun
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__0 Gray Amber, Musk
+__label__1 Black Musk, Moss, Patchouli
+__label__4 Oak Moss, Rich And Musty Oud
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__0 Musk, Sandalwood, Patchouli, Oak Moss, Virginia Cedar, Amber, Leather
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Skin Accord, Tonka Bean
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__3 Cashmere Wood, Moss, Rippled Sand Accord
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__3 Cedar, Ambroxan
+__label__2 Ambroxan, Vanilla
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__6 Cedar, labdanum, ambroxan
+__label__0 Musky Woody
+__label__1 Caramel, Cashmere, Vanilla, White Musk
+__label__1 Patchouli, Amber, Musk, Vanilla, Woodsy Note
+__label__8 Cedarwood, Vanilla, Musk
+__label__6 Amber, Incense, Sandalwood, Patchouli, Agarwood (oud)
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss, Green Tea, Green Accord
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__3 Sandalwood
+__label__8 Musk
+__label__3 Leather
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__5 Oakmoss, Musk, Patchouli, Leather
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__1 Amber, patchouli, vanilla, musk, sandalwood
+__label__1 Patchouli, Amber, Musk
+__label__3 Amber, Cactus And Cotton Flower
+__label__8 Vanilla, Sugar, White Musk, Cedar
+__label__4 Vetiver, Sandalwood, Cedar, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Ambergris, Cashmere wood, Sandalwood
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__1 Sandalwood
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__16 Sandalwood, Cedarwood
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__5 Sandalwood, Musk
+__label__8 Ambroxan, Benzoin, Woodsy Notes, Vanilla
+__label__4 Woody Amber, Cedar Accords
+__label__1 Vanilla, White Musk
+__label__2 Cistus, Myrrh, Oud, Amber
+__label__2 Tolu Balsam, Sandalwood, Amber
+__label__1 Vanilla, Woodsy Notes
+__label__1 Virginia Cedar, Vanilla, Amber
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__0 Vetiver and Patchouli
+__label__1 Musk, Raspberry
+__label__1 Patchouli, Tonka Bean, Vanilla, Praline
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__2 Jasmine, Wisteria
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__3 Leather, Woody Notes
+__label__3 Vetiver, Sandalwood, Amber
+__label__1 Cedar, Vanilla, Patchouli
+__label__1 Madagascar Vanilla Absolute, Ambergris
+__label__1 Blackberry, Sensual Musk
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__18 Vanilla, Ambergris, Musk, Patchouli
+__label__7 Musk, Sandalwood
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__1 Sandalwood, Musk
+__label__5 Labdanum, Musk
+__label__3 Labdanum, Ceder
+__label__1 Sandalwood, Vetiver, Vanilla, Peru Balsam
+__label__3 Woody, Spicy
+__label__6 Rose, Vanilla, Ginger
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Virginia Cedar
+__label__1 Sandalwood, Amber, Vanilla
+__label__6 Woody, Musk, Amber
+__label__1 Patchouli, Vanilla, Ambroxan, Woody Notes
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__1 Oakmoss, Musk, Black Currant
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Cashmere Woods
+__label__3 Amber, Cedar, Toacco
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__3 Leather
+__label__1 White Musk, Vanilla
+__label__0 Amber, musk
+__label__0 Amber, Musk, Vanilla
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__11 Ambery Woods
+__label__1 Patchouli,Cashmeran,Tonka bean, Almod milk
+__label__2 Benzoin, Tonka Bean, Vanilla
+__label__0 Cypress, Amber, Musk, Cedar
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__0 Woody Notes, Vetiver
+__label__5 Caramel, Patchouli, Rum, Sandalwood, Vanilla
+__label__5 Sandalwood, Cashmerean, Musk, Amber, Vanilla
+__label__12 Gaiac Wood
+__label__1 Iris, Vanilla
+__label__5 Vetiver, Moss, Sandalwood, Musk, Black Currant
+__label__5 Oakmoss, Sandalwood, Civet, Cedarwood, Musk, Orris, Tonka Bean
+__label__0 Patchouli, Amber, Sandalwood, Vetiver, Benzoin, Cinnamon
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__1 Musk, Cashmere Wood, Vetiver
+__label__0 Amber, Guaiac Wood, Leather, Lichen, Musk
+__label__1 Lily Of The Valley, Woody, Musky
+__label__4 Geranium, Amber, White Musks
+__label__1 Musk, Sandalwood, Lemon Tree
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Lily, Wild Strawberry
+__label__3 Sandalwood, Tonka Bean
+__label__12 Oakmoss, Sandalwood, Patchouli, Labdanum
+__label__1 Ambrette Seeds, Tonka Beans, Musk
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__3 Patchouli, Sandalwood
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__3 Creamy Amber
+__label__0 Vetiver, Leather, Cedarwood
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__3 Amber, Frankincense, Musk, Patchouli, Vanilla, Vetiver
+__label__0 Suede, Cedar Essence, Black Tea, Woody Notes
+__label__0 Tobacco, Oakmoss, Musk
+__label__15 Sandalwood, Musk, Vetiver, Cedar
+__label__6 Vanilla, Musk, Labdanum
+__label__7 Virginia Cedar, Amber
+__label__0 White Musk, Sandalwood, Vanilla
+__label__0 Cedar, Vetiver
+__label__0 Musk, Sandalwood, Cedar, Oakmoss
+__label__1 Dry Amber, Vanilla
+__label__5 Musk, Amber, Vanilla, Woody notes
+__label__0 Patchouli, Vanilla, Musk
+__label__9 Patchouli, Sandalwood
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__2 Cedar Wood, Patchouli, Vanilla, Leather, Vetiver, Labdanum, Musk
+__label__5 Musk, Plum, Cedarwood
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__1 Musk
+__label__3 Aromatic Scents
+__label__2 oud
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__4 Roasted Cocoa
+__label__1 Tonka Bean, Orchid, Sandalwood Vetiver, Iris Ambergris
+__label__1 Floral, Musky
+__label__1 Amberwood, Cedar, Chestnut, Vanilla
+__label__1 Vanilla, Musk, Labdanum
+__label__1 Patchouli, Vetiver
+__label__5 Patchouli, Cedar, Amber, Tonka, Vanilla
+__label__0 Amber, Musk, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Silver Moss, Mineral Amber, Musk
+__label__1 Birch, Vetiver, Amber
+__label__0 Patchouli, musk, vanilla, amber
+__label__5 Musk, Sandalwood, Vanille
+__label__1 Woody, Oriental, Musky
+__label__4 Woody Amber, Cedar Accords
+__label__0 Cedar Wood
+__label__0 Patchouli, sandalwood, musk, amber
+__label__7 Cashmere Wood, Tonka Bean, Orcanox
+__label__1 Wood, Musk
+__label__6 Vanilla, Musk, Labdanum
+__label__2 Guaiac Wood, Woodsy Notes, Virginia Cedar, Amber, Vanilla
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Cedarwood, Patchouli, Sandalwood, Benzoin
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__5 Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__8 Luid Sandalwood, Jasmine, Amber, Vanilla
+__label__5 Coconut, Musk, Sandalwood
+__label__6 Sandalwood, Cedar, Vanilla
+__label__1 Patchouli, Sandalwood
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__18 Milk, Sandalwood, Cardamom
+__label__1 Virginia Cedar, Incense
+__label__0 Sandalwood, Amber, Musk, Vanilla
+__label__6 Incense, Musk, Tonka Bean, Saffron
+__label__3 Sandalwood, Amber, Coconut, Patchouli, Vanilla, Cedar
+__label__18 Jasmine, Amber, Balsamic
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__1 Musk, Woody Accord
+__label__2 Sandalwood, Amber, Patchouli, Musk, Benzoin, Caramel, Vetiver, Vanilla
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__0 Haitian Vetiver, Tonka Bean, Amberwood
+__label__3 Lamon, Woody
+__label__0 Wood, Almond
+__label__0 Burnt Amber, Cashere Woods, Vanilla, Sandalwood
+__label__5 Musk, Grey Amber, Inoki Wood
+__label__1 Amber, Musk, Powdery Notes, Cedar, Sandalwood
+__label__1 Cashmeran, Amber, Musk
+__label__1 Dry Amber, Vanilla
+__label__0 Sandalwood, Amber, Patchouli, Civet, Oakmoss Vetiver
+__label__2 Agarwood, Amber
+__label__0 Vanilla, Musk
+__label__1 White Amber, Woods
+__label__1 Amber, Vanilla, Ambergris, Musk
+__label__7 Amber, palisander rosewood
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__6 Patchouli, Fir, Cedar
+__label__2 Vetiver, Sandalwood, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Amber, Incense, Guaiac Wood
+__label__3 Woody Notes, Tonka Bean
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__5 Delicate Musky Sensual Woods
+__label__1 Woody Notes, Musk
+__label__1 Cedar, White Musk
+__label__3 Cedarwood, Patchouli, Vetiver, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__0 Woody Notes, Vetiver
+__label__1 Rose, Sensual Musk
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Patchouli
+__label__2 Tonka Bean, Cacao, Vanilla, Praline, Sandalwood, Amber, Cashmere Wood, Musk, Patchouli, Cinnamon, Cedar
+__label__0 Leather, Oakmoss, Amber
+__label__1 Leather, Musk
+__label__3 Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__1 Virginia Cedar
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__0 Vetiver, Vanilla
+__label__5 Cacao
+__label__14 Leather, Oakmoss, Vanilla, Woody Notes
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__0 Leather
+__label__0 Amber, Leather
+__label__1 Neroli, Rose
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__1 Patchouli, Vanilla And Honey
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__7 Sandalwood, Patchouli
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Amber Milk, Mousse Australian, Sandalwood, Vanilla
+__label__0 Amber, patchouli, vanilla, musk, sandalwood
+__label__0 Honey, Amber, Musk, Oakmoss
+__label__3 Tobacco, Patchouli, Vetiver
+__label__1 White Wood, Musk, Amber, Cedar, Violet
+__label__0 Amber, Sandalwood, Patchouli
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cedar
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__2 Iris, Jasmine, Sweet Vanilla, Patchouli
+__label__1 Vetiver, Sandalwood, Cashmere, Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__12 Woody, Masculine, Cedarwood, Vetiver, Patchouli Accords
+__label__0 Cashmere Wood, Agarwood (Oud), Labdanum, Patchouli, Ebony Tree, Musk, Madagascar Vanilla, Suede
+__label__3 Amber, Musk
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__7 White Musk, Vetiver, Cedar
+__label__0 Leather, Cedar, Vetiver
+__label__3 Creamy Amber
+__label__1 Amber, Musk, Patchouli, Woody Notes
+__label__7 Frankincense, Musk, Saffron, Tonka Beans
+__label__1 Patchouli, Woods, Amber, Orcanox, Vanilla
+__label__6 Honey, Patchouli
+__label__7 Woodsy Notes, Vetiver
+__label__0 Leather, Suede, Cedar
+__label__8 Sandalwood, Musk
+__label__2 Cashmere Wood, Amber, Musk
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__5 Cedar, Musk, Patchouli, Wood
+__label__1 Oined with Damascus, Centifolia Rose
+__label__1 Tonka bean, amber, benzoin, cedar
+__label__3 Violetwhite Wood, Musk, Amber, Cedar, Violet
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__2 Ebony, Woodsy Notes
+__label__5 Lemon Tree, Musk, Sandalwood
+__label__5 Amber, Musk, Cashmere Wood
+__label__7 Patchouli, Brown Sugar Accord
+__label__0 Warm Amber, Musk, Tonka Bean
+__label__1 Tonka Bean, Vanilla, Olibanum
+__label__2 Cedar, Tonka Bean
+__label__0 Sandalwood, Oakmoss, Musk
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__0 Louro Amarelo Wood, Sandalwood, Musky Notes
+__label__1 Musk, Sandalwood, Patchouli, Oakmoss, Cedar, Pepper, Pine Tree
+__label__2 Cedar, Oakmoss, Vanilla, Vetiver
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__1 Patchouli, Sandalwood
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__1 Musk, Wood
+__label__0 Leather
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__3 Sandalwood, Tonka Bean
+__label__2 Amber, Musk, Jasmine
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__1 Amber, Civet, Honey, Lichen, Musk, Sandalwood, Tonka Beans, Vanilla
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__7 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__1 Amber, Cedar, Musk
+__label__3 Patchouli, Vetiver, Moss
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__6 Wood, Cedar Wood, Patchouli, Animal, Sandalwood
+__label__1 Marshmallow, Sandalwood, Vanilla
+__label__5 Amber, Vanilla, Musk
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Musk, Moss
+__label__13 Sandalwood, Cedarwood
+__label__7 Benzoin, Olibanum, Patchouli, Suede
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__1 Musk, vanilla
+__label__4 Violet Root, Iris, Nectarine, Peach Blossom, Rose Hip Red Cyclamen, Blue Hyacinth
+__label__1 Vetiver, White Cedar Extract, Cedar
+__label__3 Cedarwood, Patchouli, Vanilla
+__label__1 Cedarwood
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Vetiver, Vanilla
+__label__0 Leather, amber, musk, oakmoss, balsam fir, vetiver, incense, cedar
+__label__1 Vanilla, Amber
+__label__1 Cashmere, Sandalwood, Ambergris
+__label__6 Chocolate,cashmere Wood, Patchouli, Tonka Bean
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Musk, Oakmoss, Agarwood, Leathery
+__label__5 Amber, Caramel, Vanilla, Sandalwood
+__label__4 Apricot, Amber, Lemon Tree
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__1 Vanilla, Amber
+__label__7 Guaiac Wood, Patchouli Heart
+__label__1 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Amber, Labdanum, Leather, Musk, Tonka Beans, Vanilla
+__label__1 Vanilla, Amber, Patchouli, Sandalwood
+__label__3 Cedar, Sandalwood, Musk, Amber
+__label__12 Leather, Benzoin, Tonka
+__label__1 Indonesian Patchouli Essence, Indian Sandalwood, Amber, Vanilla
+__label__1 Patchouli, Woody Notes, Musk
+__label__7 Leather, Tobacco, Tonka Bean
+__label__0 Blonde Leather Patchouli White Woods Amber
+__label__1 Amber, Cashmere Wood, Musk
+__label__0 Labdanum Rum
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Amber, Vanilla, Clove, Iris, Musk, Sandalwood
+__label__0 Ambroxan, Akigalawood, Indonesian Patchouli Leaf, Cacao Pod
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__1 Wood, Musk
+__label__6 Musk
+__label__3 Tonka Bean, Amberwood, Cacao
+__label__7 Patchouli, Sandalwood
+__label__2 Musk, Amber, Patchouli, Papyrus
+__label__1 Golden Woods Musk
+__label__7 Georgywood, Suede, Vetiver, Cedarwood
+__label__1 Vanilla, Patchouli, Massoia Wood
+__label__7 Sandalwood, patchouli, amber
+__label__1 Cedar, Sensual Benzoin
+__label__1 Sandalwood, Vetiver, Vanilla, Amber, Musk
+__label__4 Amber, Musk, Oakmoss, Agarwood (Oud)
+__label__1 Musk,  Sandalwood,  Cedar,  Vanilla,  Opoponax,  Amber
+__label__5 Tobacco, Amber, Cedar
+__label__0 Sandalwood, Oak Moss, Vetiver
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__0 Sandalwood
+__label__2 oud
+__label__1 Ambery Woody
+__label__1 Vanilla, Musk, Sandalwood, Guaiac Wood, Amber
+__label__2 Cedar, Tonka Bean
+__label__9 Tail Rose
+__label__6 Amber, Musk, Sandalwood, Coumarin, Vanilla
+__label__5 Tonka Bean, Sensual, Rich, Creamy Buttery Lactonic Caramel
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__0 Black Amber, Patchouli
+__label__3 Incense, Amber, Leather, Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__0 Ginger, Fir Resin, Nutmeg, Amber
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__3 Woodsy, Tonka Bean
+__label__6 Moss, Musk, Vetiver
+__label__0 Agarwood, Patchouli, Leatherwood
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__1 Patchouli, Amber, Musk
+__label__1 Cuddly, Creamy Rosewood
+__label__7 Sandalwood, Amber, Musk, Cedar, Oak moss
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Musk, Woody Notes
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Coconut Accords, Wood, Musk
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__7 Virginia Cedar, Amber
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__0 Cedar Wood, Tonka Beans, Vetiver
+__label__1 Musk, Patchouli, Sandalwood
+__label__1 Cedar, Amber
+__label__5 Jasmine
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Woodsy Notes
+__label__1 Liquid Amber, Black Violet, Cream, Mahogany
+__label__1 Patchouli, Earthy, Dry Amber
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__7 Powdery Vanilla, Musk, Woody Accords
+__label__1 Almonds, Cedar, Oakmoss, Tonka Beans, Vanilla
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__0 Benzoin
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__0 Ebony Wood
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__5 White Musk, Blond Wood
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__3 Woody, Spicy
+__label__0 Amber Wood, Sandalwood, White Musk
+__label__1 Honey, Patchouli
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__3 Tonka Bean, Guaiac Wood, Benzoin
+__label__1 Green leaves of lily
+__label__1 Vanilla, Woodsy Notes, Sandalwood, Musk
+__label__7 Patchouli, Cedar, Vanilla, White Musk, Oak Moss
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__1 Apricot, Amber, Lemon Tree
+__label__17 Damascus, Centifolia Rose
+__label__1 Cuddly, Creamy Rosewood
+__label__0 Vetiver, Patchouli
+__label__6 Patchouli, Fir, Cedar
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__2 Sandal Wood, Vanilla, Tonka Bean, Amber, Musk
+__label__0 Musk, Incense, Amber, Resins, Woody Note
+__label__3 Musk, Sandalwood, Patchouli, Amber
+__label__20 White Musk, Amber, Vanilla, Sugar
+__label__1 Coriander
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__0 Guaiac Wood, Benzoin
+__label__5 Amber, Oakmoss, Cedar
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__0 Cedar, Tonka Bean, Musk, Leather, Sandalwood, Oakmoss
+__label__2 Woody Notes, Spices, Musk, Vanilla
+__label__3 Acacia Wood
+__label__0 Sandalwood, Cedarwood
+__label__1 Musk, Vanilla, Woody Notes
+__label__4 Amber
+__label__0 Leather, Suede, Cedar
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__7 Guaiac Wood, Patchouli Heart
+__label__6 Woodsy transparent with coffee, incense touches
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__2 Jasmine, Wisteria
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__4 Vetiver, Patchouli
+__label__1 Sandalwood
+__label__5 Cacao
+__label__3 Guaiac Wood, Benzoin
+__label__8 Amber, Woods, Musk, Patchouli, Sandalwood, Vanilla
+__label__1 Woody Notes, White Musk, Amber
+__label__0 Musk, Cashmere Wood
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__9 Musk, Patchouli, Amber
+__label__9 Red Cedar White Musk, Patchouli
+__label__1 Amber, Orris, Sandalwood
+__label__12 Sandalwood, Oakmoss, Tonka Beans, Virginia Cedar, Vetiver, Musk
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__0 Benzoin
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__1 Aromatic Cedarwood, Tonka, Amber, Vetiver
+__label__2 Vanilla, Ambra
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__3 Apricot, amber, lemon tree
+__label__3 Tonka Bean, Woody Notes
+__label__5 Vegetal Amber, Musk, Mahogany
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__0 Australian Sandalwood, Musk, Vanilla
+__label__1 Amber, Tibetan Musk, Sandalwood, Iris, Vanilla
+__label__3 Amber, Cactus, Cotton Plant Blossom
+__label__4 Cedar, Vetiver, Patchouli, Sandalwood, Ambergris, Musk
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__0 Cedar Wood
+__label__6 Sandalwood, Musk, Vanilla Orchid, Cedar
+__label__7 Ambergris, musk
+__label__1 Joshua Tree, Ambroxan
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cashmeran, Suede, Musk
+__label__1 Sandalwood, Cashmere, Ambergris
+__label__3 Labdanum, Cedar
+__label__0 Cedarwood, Tonka Bean
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Cedar, Vanilla, Patchouli
+__label__0 Benzoin, Guaiac Wood, Tonka Beans
+__label__1 White Musk, Sandalwood
+__label__1 Woody, musky
+__label__1 Sandalwood, Caramel, Beeswax, Patchouli
+__label__2 Vanilla, Tonka Bean, Iris, Sandalwood, Musk, Amber, Vetiver, Cedar, Patchouli
+__label__4 Patchouli, Caramel, Amber, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Guaiac Wood, Musk, Vanilla
+__label__1 Amber, Patchouli
+__label__0 Indonesian Patchouli, Oakmoss
+__label__1 Oakmoss, Amberwood, Patchoulli, Sandalwood, White Musk
+__label__1 Orris Root, Musk, Vanilla
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__1 Patchoulie, Musk, Schijnhulst
+__label__5 Cypress, Cashmere Wood, Amberwood, Sandalwood
+__label__5 Musk, Vanilla
+__label__4 Amber
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__0 Sandalwood, Olive Tree, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Cashmeran, Ambroxan, Musk
+__label__1 Lily, Wild Strawberry
+__label__0 Opoponax, Patchouli, Tonka Beans, Vanilla, Vetiver, White Musk
+__label__0 Musk, Amber, Wood
+__label__3 Amber, Woody
+__label__1 Leather, Oakmoss, Amber
+__label__5 Cacao
+__label__1 Vetiver, Musk, Ambroxan
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__3 Incense, Lotus, Patchouli, Sandalwood, Vanilla, Vetiver
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__9 Tonka Bean, Guaiac Wood
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__1 Rangoon Creeper
+__label__1 Amber, Benzoin, Cedar, Tonka Beans
+__label__6 Musk, Balsam Fir
+__label__3 Guaiac Wood, Benzoin
+__label__2 Sandalwood, Leather note, Amber notes, Oud, Muscs note
+__label__6 Sandalwood, Musk, Amber
+__label__4 Sandal Wood, Musk, Vetiver
+__label__1 Virginia Cedar
+__label__3 Musk, Patchouli, Amber, Tobacco
+__label__1 Rangoon Creeper
+__label__1 Cotton Candy, Musk, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__3 Amber, Moss, Musk, Vanilla, Vetiver
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__0 Cedar, Benzoin, Suede Accord
+__label__0 Sandalwood, Tonka Bean, Amber, Coconut, Vanilla, Oak Moss, Cedar, Styrax
+__label__3 Leather, Papyrus
+__label__0 Vetiver, Ceder, WhiteMusk
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__6 Musk, Vanilla
+__label__4 Vanilla, Amber
+__label__0 Vanilla, Sandalwood, Vetiver, Cedarwood, Olivewood, Amber-like-notes, Musk-like-notes
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Powdery Vanilla, Musk, Woody Accord
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__6 Patchouli, Fir, Cedar
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__18 Rose, Geranium, Jasmine, Tea
+__label__2 Vanille, Tonka Bean
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__0 Cashmere Wood, Musk
+__label__4 Sugar, Vanilla, Cedar, White Musk
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__1 Bergamot, Gardenia, Pelargonium, Cotton Candy, Flowers
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__8 Musk, White Wood
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__9 Cedar, Musk
+__label__3 Paraguayan Lignum Vitae, Indonesian Patchouli, Laotian Benzoin, Copper Accords
+__label__1 Woody Notes, Musk
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__3 Patchouli
+__label__1 Sandalwood, Patchouli, Amber, Vetiver, Sensual Musk
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__3 Musk, Patchouli, Cedar Wood
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__0 Musk, Amber, Wood
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__2 Jasmine, Wisteria
+__label__1 Amber, Precious Musk, Guaiac Wood
+__label__7 Vetiver, Cedar, White Musk
+__label__0 Cedar, Musk, Sandalwood
+__label__6 Rose, Vanilla, Ginger
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__1 Maple, Vanilla Styrax, Benzoin
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__0 Sandalwood, Cedar, Amber, Labdanum
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Sandalwood, Amber, Musk, Vanilla, Oak Moss, Cedar
+__label__0 Vetiver
+__label__1 Patchouli, Amber, Musk
+__label__1 Amber, Virginia Cedar
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__3 Patchouli, Cedar, Vetiver, Frankincense, Musk, Tonka Bean
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__0 Patchouli, Virginia Cedar, Benzoin, Agarwood, Leather, Raspberry
+__label__19 Tobacco, Amber, Guaiac Wood, Sandalwood, Haitian Vetiver, Madagascar Vanilla, White Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__7 cypress, amber, musk, cedar
+__label__2 Sandalwood, Vanilla, Amberwood
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__5 Cedar, Musk, Patchouli, Sandalwood
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__2 Vetyver, Amber, Musk, Oakmoss
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Cashmere Wood, Musk
+__label__1 Musk Wood, Incense, Oakmoss
+__label__5 Suede Musk Sandalwood Cashmeran
+__label__3 Leather, Benzoin, Incense, Cedar, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__10 Marshmallow, Vanilla, Sandalwood, Heliotrope
+__label__2 Amber, Palisander Rosewood
+__label__4 Vanilla, Amber
+__label__1 Sandalwood, Musk, Vanilla
+__label__5 Cedar, Amber, Musk, Vanilla
+__label__1 Honey, Sandalwood, Tonka Bean, Amber, Musk, Civet, Vanilla, Oakmoss, Vetiver
+__label__4 Amber, Patchouli, Musk
+__label__5 Cedar, Leather, Amberwood, BenzoinTolu,  Balsam Vetiver
+__label__3 Sandalwood, Cedar, Vetiver, Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__12 Cedar Wood, Fir, Patchouli
+__label__5 Oak moss, musk, ambergris, vanilla
+__label__0 Cashmere Wood, Musk, Amber, Vanille
+__label__8 Musk, Praline, Tonka Beans, Vanilla, Vetiver
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__7 woody notes, patchouli, cedar
+__label__0 White cedar, patchouli, amber wood, vanilla
+__label__1 Patchouli, Beeswax, Caramel, Licorice
+__label__5 Violet Leaf, Tahiti Tonka, Light Wood
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__3 Vanilla Absolute, Sandalwood, White Musk
+__label__2 Tonka Bean, Cocoa
+__label__0 Haitian vetiver, tonka bean, amberwood
+__label__0 Wood, Almond
+__label__6 Musk, Oakmoss, Cedar, Tobacco, Amber
+__label__5 Floral Ambery Woody
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__0 Tonka Bean, Tahitian Vetiver, Cedar
+__label__3 Amber, Woody
+__label__1 Patchouli, Sandalwood, Vanilla, White Musk
+__label__1 Vanilla, Musk
+__label__3 Leather, Moss, Patchouli
+__label__8 White Musk, Woody Notes, Madagascar Vanilla
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__1 Ambergris, vanilla, leather tonka bean, patchouli, musk, sandalwood, cedar, plum, styrax, oakmoss
+__label__2 Amber, Musk, Sandalwood
+__label__6 Amber, Musk, Sandalwood
+__label__1 Patchouli, Vetiver
+__label__1 Patchouli, Musks, Osmanthus
+__label__1 Amber, Orris, Sandalwood
+__label__1 Sandalwood, Vetiver, Rosewood, Ambergris
+__label__6 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__4 Sandalwood, California Cedar, Vanilla, Musk
+__label__0 Vetiver, Patchouli
+__label__3 Cedar, Olibanum, Vetiver
+__label__1 Powdery
+__label__5 Musk, Plum, Cedarwood
+__label__1 Sandalwood, Patchouli
+__label__5 Musk, Vanilla
+__label__7 Woody, Musk, Vanilla
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__1 Vanilla, Musk, Pacsuli
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Cedar, Woody Notes, Amber, Vanilla, Musk
+__label__1 Woody, Oriental, Musky
+__label__0 Cashmere Wood, Musk
+__label__7 Balsa Wood, Haitian Vetiver, Laotian Benzoin
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Patchouli
+__label__2 Styrax, Benzoin
+__label__0 Effervescent Citrus
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__0 Dry Amber, Madagascar Vanilla, Patchouli, Cashmere, Dry Amber
+__label__1 Virginia Cedar, Incense
+__label__1 Vanilla, Sandalwood, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__9 Tonka Bean, Guaiac Wood
+__label__7 Tobacco, Leather, Tonka Bean
+__label__0 Indian Patchouli, amber, woody notes, leather
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__0 Vanilla Pods from Madagascar, White Musk
+__label__1 Plants, Musk, Red Woods
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__1 Caramel, Vanilla, Patchouli
+__label__8 Vanilla, Benzoin, Musk, Amber
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__5 Floral Ambery Woody
+__label__1 Apricot, Amber, Lemon Tree
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__0 Woody, Amber, Vanilla
+__label__12 Cedar Wood, Fir, Patchouli
+__label__0 Praline, Coconut Salt, Suede, Musk
+__label__3 Ambery, Cedar wood
+__label__1 Mandarin Orange, Agarwood
+__label__0 Incense, Benzoin
+__label__2 Neroli, Orange Blossom, Earthy Vetiver, Saffron
+__label__8 Haitian Vetiver, Vintage Vanilla, Golden Amber
+__label__5 Amber, Patchouli, Suede
+__label__4 Patchouli, Amber
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Iris, Vanilla
+__label__17 Damascus, Centifolia Rose
+__label__1 Amber, Musk, Mahogany
+__label__0 Sandalwood, Amber, Patchouli, Oakmoss, Vetiver
+__label__2 Ebony, Woody Notes
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__0 Sandalwood, Amber, Musk, Vanilla, Oakmoss, Cedar
+__label__3 Sandalwood, Benzoin, White Musk
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Honey, Sandalwood, Tonka, Bean, Amber, Musk, Civet, Vanilla, Oakmoss
+__label__7 Ginger, Jasmine, Juniper, Nutmeg, Pepper, Violet, Whisky
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Patchouli, Amber
+__label__7 Labdanum, Sandalwod, Patchouli, Vetiver, Incense, Cedar, White Musk
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Vanilla, Cedar
+__label__2 Sensual Addiction Of The Tonka Bean Note
+__label__1 Gardenia
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__7 Vetiver, Suede, Ambergris
+__label__9 Cedar, Musk
+__label__1 White Musk, Woody Notes, Madagascar Vanilla
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__0 Rare Wood, Amber Fat, White Musk
+__label__1 Vanilla, Iris, Sandalwood
+__label__3 Sandalwood, Amber, Cedar, Oakmoss
+__label__1 Patchouli, Black Musk, Vetiver, Moss
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__0 Ambergris, Civet, Musk, Cedar Wood, Sandalwood
+__label__0 Moss, Agarwood, Amber, Atlas Cedar
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Labdanum, Sandalwood, Musk, Guaiac Wood, Vetiver, Incense
+__label__0 Cypress, Amber, Musk, Cedar
+__label__1 Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Cedar, Tobacco.
+__label__0 Amber, Musk, Platanus, Saffron, Woody Notes
+__label__3 Cashmere Woods, Madagascar Vanilla, Burnt Amber, Australian Sandalwood
+__label__3 Sandalwood, Tonka,  Evernyl
+__label__1 Cedar, Sandalwood, Vanilla, Tonka Bean
+__label__2 Musk, Vetiver
+__label__1 Amberwood, Cashmere Wood, Cypress, Sandalwood, Vanilla
+__label__5 Leather, Sandalwood, Tonka Beans
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__1 Cedar, Vanilla, Raspberry
+__label__3 Natural Oud Oil, Patchouli
+__label__5 Nutmeg, Oakmoss, Sandalwood
+__label__1 Musk, Patchouli
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__1 Patchouli, Sandalwood
+__label__1 Guimave, Vanilla, Heliotrope, Sandalwood
+__label__3 Amber, Cactus, Cotton
+__label__5 Amber, Musk, Sandalwood
+__label__5 Vanilla, Blackberry, Amber
+__label__1 Golden Woods, Cedar, Cashmere, Musk, Vanilla, Caramel
+__label__1 Patchouli, White Honey, Amber
+__label__5 Patchouli, White Leather
+__label__6 Tonka Bean, Patchouli, Opoponax, Vanilla, Vetiver, White Musk
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__4 Musk, Sandalwood, Virginia Cedar, Amber, Nutmeg, Vanille, Orris Root
+__label__7 Vanilla, Musk, Woody Accords
+__label__2 Amber, Patchouli, Vanilla, Musk
+__label__1 Incense, Gaïac Wood, Amber
+__label__0 Sandalwood, Vanilla, Musk
+__label__5 Amber, Woody Notes
+__label__1 Cedar, Woody Notes
+__label__1 Sandalwood, Patchouli, Musk
+__label__7 Patchouli
+__label__1 Virginia Cedar
+__label__3 Tonka Bean, Woody Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__0 Sandalwood, Vetiver , Guaiac Wood
+__label__0 Vetiver, Patchouli
+__label__0 Guaiac Wood, Oakmoss, Patchouli, Ambergris
+__label__1 Pearl Musk, Sandalwood, Patchouli
+__label__2 Voluptuous Sensuality, Living Temple Incense, Amber, Vanilla Bean, Toffee, Tonka Bean
+__label__2 Sandalwood, Musk, Amber
+__label__2 Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver, Oakmoss
+__label__7 Musk, Vanilla, Woody Notes
+__label__3 Patchouli, Tonka Beans, Velvet, Woody Notes
+__label__0 Musk
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__0 Amber, Cedar, Musk, Tonka Beans, Moss
+__label__0 Aldehyde, Jasmine, White Flowers
+__label__4 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__7 woody notes, patchouli, cedar
+__label__0 Ebony Wood
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__6 Vanilla, Musk
+__label__2 Sweet Wood
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__1 Patchouli, Moss, Woody-Amber, Sandalwood, Musk, Dry Woods.
+__label__1 Patchouli, Vanilla, Moss
+__label__8 Sandalwood, Musk
+__label__5 Jasmine
+__label__0 Leather, sandalwood, amber, patchouli, musk, oakmoss, cedar
+__label__8 Tonka Bean, Patchouli
+__label__3 Vetiver, Sandalwood, Cedar, Tonka Bean
+__label__4 rose
+__label__2 Styrax, Benzoin
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__18 balsamic
+__label__1 Patchouli, Virginia Cedar
+__label__7 Amber, Red Cader, Vanilla
+__label__0 Aldehyde, Jasmine, White Flowers
+__label__3 Sandalwood, amber, musk
+__label__2 Amber, Musk, Jasmine
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__1 Amber Accord, Sandalwood
+__label__2 Musk, Tonka Bean, Incense, Saffron
+__label__1 Sandalwood, Musk, Patchouli
+__label__3 Cashmeran, Fir
+__label__6 Rose, Vanilla, Ginger
+__label__0 Musk, Amber, Wood
+__label__4 Amber, Patchouli, Musk
+__label__5 Leather, Tonka Bean, Musk, Cedar
+__label__1 White Musk, Blackberry, Raspberry, Amber
+__label__3 Ambergris, Amber, Salt
+__label__1 Amber, Cedar, Leather, Vetiver, Patchouli, Roots
+__label__1 Floral, Fruity, Musky
+__label__0 Pine Tree, Cypress, Laurels
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber, Patchouli
+__label__0 Leather, Vetiver, Tonka Bean
+__label__2 Roasted Tonka Grain, Laos Benzoin
+__label__1 Honey, Sandalwood, Vetiver
+__label__0 Cashmere Wood, Musk
+__label__0 Leather, tonka bean, amber, musk, oakmoss
+__label__0 Patchouli, Sandalwood
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Amber, Musk, Cashmere Wood
+__label__4 Patchouli, Vanilla Leather
+__label__7 Vetiver, Sandalwood, Musk, Amber
+__label__0 Absolute Vanilla Orchid Tahitensis, Praline, Patchouli, Papyrus
+__label__12 Vetiver, Oakmoss, Leather, Myrrh, Civet, Tonka Bean, Amber
+__label__1 Woody Notes
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__1 Akigalawood
+__label__1 Amber, Musk, Mahogany
+__label__2 Lemon, Mint, Wood Moss
+__label__0 Vetiver, Patchouli
+__label__1 Leather, Vanilla Pod, Amber
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__3 Vetyver, French Labdanum, Patchouli, Tonka Bean
+__label__5 Oakmoss, Musk, Leather, Patchouli
+__label__1 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__0 Ebony Wood
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__6 Woody Leather, Musk
+__label__1 Patchouli, Oak Moss, Leather
+__label__0 Musk, Lactone, Woody Amber
+__label__3 Sandalwood, Amber, Patchouli, Musk, Coconut
+__label__3 Oakmoss, Cedar, Nutmeg, Woody Notes
+__label__1 White Musk, White Woods, Vanilla orchid
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__3 Amber, Patchouli, Woodsy Notes, Musk
+__label__9 Musk, Sandalwood, Vanilla
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__3 Sandalwood, Tonka, Evernyl
+__label__3 Sandalwood, Tonka Bean
+__label__3 Patchouli, Amber
+__label__1 Musk, Vanilla, Amberwood
+__label__0 Black Violet, Liquid Amber, Mahogany, Cream Accords
+__label__3 Guaiac Wood, Benzoin
+__label__0 Vanilla, Musk
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__5 Moss, Sandalwood, Coumarin
+__label__5 Amber, Musk, Sandalwood, veti
+__label__1 White Musk, Amber, Vanilla, Sugar, Benzoin
+__label__1 Incense, Gaïac Wood, Amber
+__label__5 Caramel, Sandalwood, Tonka Beans, Vanilla
+__label__1 Cedar, Woody Notes
+__label__2 Sweet Wood
+__label__7 Patchouli, Cedar, Vetiver, Benzoin
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__2 Lemon, Mint, Wood Moss
+__label__2 Sandalwood, Benzoin, White Musk
+__label__4 Vanilla, Musk, Cedar, Sandalwood, Oakmoss, Amber, Vetiver
+__label__1 Ambergris, Musk
+__label__7 Vetiver, Sandalwood, Musk, Amber
+__label__3 Amber, Patchouli, Agarwood, Myrrh, Labdanun
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__0 Gray Amber, Musk
+__label__1 Black Musk, Moss, Patchouli
+__label__4 Oak Moss, Rich And Musty Oud
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__0 Musk, Sandalwood, Patchouli, Oak Moss, Virginia Cedar, Amber, Leather
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Skin Accord, Tonka Bean
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__3 Cashmere Wood, Moss, Rippled Sand Accord
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__3 Cedar, Ambroxan
+__label__2 Ambroxan, Vanilla
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__6 Cedar, labdanum, ambroxan
+__label__0 Musky Woody
+__label__1 Caramel, Cashmere, Vanilla, White Musk
+__label__1 Patchouli, Amber, Musk, Vanilla, Woodsy Note
+__label__8 Cedarwood, Vanilla, Musk
+__label__6 Amber, Incense, Sandalwood, Patchouli, Agarwood (oud)
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss, Green Tea, Green Accord
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__3 Sandalwood
+__label__8 Musk
+__label__3 Leather
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__5 Oakmoss, Musk, Patchouli, Leather
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__1 Amber, patchouli, vanilla, musk, sandalwood
+__label__1 Patchouli, Amber, Musk
+__label__3 Amber, Cactus And Cotton Flower
+__label__8 Vanilla, Sugar, White Musk, Cedar
+__label__4 Vetiver, Sandalwood, Cedar, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Ambergris, Cashmere wood, Sandalwood
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__1 Sandalwood
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__16 Sandalwood, Cedarwood
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__5 Sandalwood, Musk
+__label__8 Ambroxan, Benzoin, Woodsy Notes, Vanilla
+__label__4 Woody Amber, Cedar Accords
+__label__1 Vanilla, White Musk
+__label__2 Cistus, Myrrh, Oud, Amber
+__label__2 Tolu Balsam, Sandalwood, Amber
+__label__1 Vanilla, Woodsy Notes
+__label__1 Virginia Cedar, Vanilla, Amber
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__0 Vetiver and Patchouli
+__label__1 Musk, Raspberry
+__label__1 Patchouli, Tonka Bean, Vanilla, Praline
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__2 Jasmine, Wisteria
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__3 Leather, Woody Notes
+__label__3 Vetiver, Sandalwood, Amber
+__label__1 Cedar, Vanilla, Patchouli
+__label__1 Madagascar Vanilla Absolute, Ambergris
+__label__1 Blackberry, Sensual Musk
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__18 Vanilla, Ambergris, Musk, Patchouli
+__label__7 Musk, Sandalwood
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__1 Sandalwood, Musk
+__label__5 Labdanum, Musk
+__label__3 Labdanum, Ceder
+__label__1 Sandalwood, Vetiver, Vanilla, Peru Balsam
+__label__3 Woody, Spicy
+__label__6 Rose, Vanilla, Ginger
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Virginia Cedar
+__label__1 Sandalwood, Amber, Vanilla
+__label__6 Woody, Musk, Amber
+__label__1 Patchouli, Vanilla, Ambroxan, Woody Notes
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__1 Oakmoss, Musk, Black Currant
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Cashmere Woods
+__label__3 Amber, Cedar, Toacco
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__3 Leather
+__label__1 White Musk, Vanilla
+__label__0 Amber, musk
+__label__0 Amber, Musk, Vanilla
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__11 Ambery Woods
+__label__1 Patchouli,Cashmeran,Tonka bean, Almod milk
+__label__2 Benzoin, Tonka Bean, Vanilla
+__label__0 Cypress, Amber, Musk, Cedar
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__0 Woody Notes, Vetiver
+__label__5 Caramel, Patchouli, Rum, Sandalwood, Vanilla
+__label__5 Sandalwood, Cashmerean, Musk, Amber, Vanilla
+__label__12 Gaiac Wood
+__label__1 Iris, Vanilla
+__label__5 Vetiver, Moss, Sandalwood, Musk, Black Currant
+__label__5 Oakmoss, Sandalwood, Civet, Cedarwood, Musk, Orris, Tonka Bean
+__label__0 Patchouli, Amber, Sandalwood, Vetiver, Benzoin, Cinnamon
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__1 Musk, Cashmere Wood, Vetiver
+__label__0 Amber, Guaiac Wood, Leather, Lichen, Musk
+__label__1 Lily Of The Valley, Woody, Musky
+__label__4 Geranium, Amber, White Musks
+__label__1 Musk, Sandalwood, Lemon Tree
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Lily, Wild Strawberry
+__label__3 Sandalwood, Tonka Bean
+__label__12 Oakmoss, Sandalwood, Patchouli, Labdanum
+__label__1 Ambrette Seeds, Tonka Beans, Musk
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__3 Patchouli, Sandalwood
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__3 Creamy Amber
+__label__0 Vetiver, Leather, Cedarwood
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__3 Amber, Frankincense, Musk, Patchouli, Vanilla, Vetiver
+__label__0 Suede, Cedar Essence, Black Tea, Woody Notes
+__label__0 Tobacco, Oakmoss, Musk
+__label__15 Sandalwood, Musk, Vetiver, Cedar
+__label__6 Vanilla, Musk, Labdanum
+__label__7 Virginia Cedar, Amber
+__label__0 White Musk, Sandalwood, Vanilla
+__label__0 Cedar, Vetiver
+__label__0 Musk, Sandalwood, Cedar, Oakmoss
+__label__1 Dry Amber, Vanilla
+__label__5 Musk, Amber, Vanilla, Woody notes
+__label__0 Patchouli, Vanilla, Musk
+__label__9 Patchouli, Sandalwood
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__2 Cedar Wood, Patchouli, Vanilla, Leather, Vetiver, Labdanum, Musk
+__label__5 Musk, Plum, Cedarwood
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__1 Musk
+__label__3 Aromatic Scents
+__label__2 oud
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__4 Roasted Cocoa
+__label__1 Tonka Bean, Orchid, Sandalwood Vetiver, Iris Ambergris
+__label__1 Floral, Musky
+__label__1 Amberwood, Cedar, Chestnut, Vanilla
+__label__1 Vanilla, Musk, Labdanum
+__label__1 Patchouli, Vetiver
+__label__5 Patchouli, Cedar, Amber, Tonka, Vanilla
+__label__0 Amber, Musk, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Silver Moss, Mineral Amber, Musk
+__label__1 Birch, Vetiver, Amber
+__label__0 Patchouli, musk, vanilla, amber
+__label__5 Musk, Sandalwood, Vanille
+__label__1 Woody, Oriental, Musky
+__label__4 Woody Amber, Cedar Accords
+__label__0 Cedar Wood
+__label__0 Patchouli, sandalwood, musk, amber
+__label__7 Cashmere Wood, Tonka Bean, Orcanox
+__label__1 Wood, Musk
+__label__6 Vanilla, Musk, Labdanum
+__label__2 Guaiac Wood, Woodsy Notes, Virginia Cedar, Amber, Vanilla
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Cedarwood, Patchouli, Sandalwood, Benzoin
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__5 Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__8 Luid Sandalwood, Jasmine, Amber, Vanilla
+__label__5 Coconut, Musk, Sandalwood
+__label__6 Sandalwood, Cedar, Vanilla
+__label__1 Patchouli, Sandalwood
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__18 Milk, Sandalwood, Cardamom
+__label__1 Virginia Cedar, Incense
+__label__0 Sandalwood, Amber, Musk, Vanilla
+__label__6 Incense, Musk, Tonka Bean, Saffron
+__label__3 Sandalwood, Amber, Coconut, Patchouli, Vanilla, Cedar
+__label__18 Jasmine, Amber, Balsamic
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__1 Musk, Woody Accord
+__label__2 Sandalwood, Amber, Patchouli, Musk, Benzoin, Caramel, Vetiver, Vanilla
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__0 Haitian Vetiver, Tonka Bean, Amberwood
+__label__3 Lamon, Woody
+__label__0 Wood, Almond
+__label__0 Burnt Amber, Cashere Woods, Vanilla, Sandalwood
+__label__5 Musk, Grey Amber, Inoki Wood
+__label__1 Amber, Musk, Powdery Notes, Cedar, Sandalwood
+__label__1 Cashmeran, Amber, Musk
+__label__1 Dry Amber, Vanilla
+__label__0 Sandalwood, Amber, Patchouli, Civet, Oakmoss Vetiver
+__label__2 Agarwood, Amber
+__label__0 Vanilla, Musk
+__label__1 White Amber, Woods
+__label__1 Amber, Vanilla, Ambergris, Musk
+__label__7 Amber, palisander rosewood
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__6 Patchouli, Fir, Cedar
+__label__2 Vetiver, Sandalwood, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Amber, Incense, Guaiac Wood
+__label__3 Woody Notes, Tonka Bean
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__5 Delicate Musky Sensual Woods
+__label__1 Woody Notes, Musk
+__label__1 Cedar, White Musk
+__label__3 Cedarwood, Patchouli, Vetiver, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__0 Woody Notes, Vetiver
+__label__1 Rose, Sensual Musk
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Patchouli
+__label__2 Tonka Bean, Cacao, Vanilla, Praline, Sandalwood, Amber, Cashmere Wood, Musk, Patchouli, Cinnamon, Cedar
+__label__0 Leather, Oakmoss, Amber
+__label__1 Leather, Musk
+__label__3 Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__1 Virginia Cedar
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__0 Vetiver, Vanilla
+__label__5 Cacao
+__label__14 Leather, Oakmoss, Vanilla, Woody Notes
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__0 Leather
+__label__0 Amber, Leather
+__label__1 Neroli, Rose
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__1 Patchouli, Vanilla And Honey
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__7 Sandalwood, Patchouli
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Amber Milk, Mousse Australian, Sandalwood, Vanilla
+__label__0 Amber, patchouli, vanilla, musk, sandalwood
+__label__0 Honey, Amber, Musk, Oakmoss
+__label__3 Tobacco, Patchouli, Vetiver
+__label__1 White Wood, Musk, Amber, Cedar, Violet
+__label__0 Amber, Sandalwood, Patchouli
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cedar
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__2 Iris, Jasmine, Sweet Vanilla, Patchouli
+__label__1 Vetiver, Sandalwood, Cashmere, Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__12 Woody, Masculine, Cedarwood, Vetiver, Patchouli Accords
+__label__0 Cashmere Wood, Agarwood (Oud), Labdanum, Patchouli, Ebony Tree, Musk, Madagascar Vanilla, Suede
+__label__3 Amber, Musk
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__7 White Musk, Vetiver, Cedar
+__label__0 Leather, Cedar, Vetiver
+__label__3 Creamy Amber
+__label__1 Amber, Musk, Patchouli, Woody Notes
+__label__7 Frankincense, Musk, Saffron, Tonka Beans
+__label__1 Patchouli, Woods, Amber, Orcanox, Vanilla
+__label__6 Honey, Patchouli
+__label__7 Woodsy Notes, Vetiver
+__label__0 Leather, Suede, Cedar
+__label__8 Sandalwood, Musk
+__label__2 Cashmere Wood, Amber, Musk
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__5 Cedar, Musk, Patchouli, Wood
+__label__1 Oined with Damascus, Centifolia Rose
+__label__1 Tonka bean, amber, benzoin, cedar
+__label__3 Violetwhite Wood, Musk, Amber, Cedar, Violet
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__2 Ebony, Woodsy Notes
+__label__5 Lemon Tree, Musk, Sandalwood
+__label__5 Amber, Musk, Cashmere Wood
+__label__7 Patchouli, Brown Sugar Accord
+__label__0 Warm Amber, Musk, Tonka Bean
+__label__1 Tonka Bean, Vanilla, Olibanum
+__label__2 Cedar, Tonka Bean
+__label__0 Sandalwood, Oakmoss, Musk
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__0 Louro Amarelo Wood, Sandalwood, Musky Notes
+__label__1 Musk, Sandalwood, Patchouli, Oakmoss, Cedar, Pepper, Pine Tree
+__label__2 Cedar, Oakmoss, Vanilla, Vetiver
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__1 Patchouli, Sandalwood
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__1 Musk, Wood
+__label__0 Leather
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__3 Sandalwood, Tonka Bean
+__label__2 Amber, Musk, Jasmine
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__1 Amber, Civet, Honey, Lichen, Musk, Sandalwood, Tonka Beans, Vanilla
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__7 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__1 Amber, Cedar, Musk
+__label__3 Patchouli, Vetiver, Moss
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__6 Wood, Cedar Wood, Patchouli, Animal, Sandalwood
+__label__1 Marshmallow, Sandalwood, Vanilla
+__label__5 Amber, Vanilla, Musk
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Musk, Moss
+__label__13 Sandalwood, Cedarwood
+__label__7 Benzoin, Olibanum, Patchouli, Suede
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__1 Musk, vanilla
+__label__4 Violet Root, Iris, Nectarine, Peach Blossom, Rose Hip Red Cyclamen, Blue Hyacinth
+__label__1 Vetiver, White Cedar Extract, Cedar
+__label__3 Cedarwood, Patchouli, Vanilla
+__label__1 Cedarwood
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Vetiver, Vanilla
+__label__0 Leather, amber, musk, oakmoss, balsam fir, vetiver, incense, cedar
+__label__1 Vanilla, Amber
+__label__1 Cashmere, Sandalwood, Ambergris
+__label__6 Chocolate,cashmere Wood, Patchouli, Tonka Bean
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Musk, Oakmoss, Agarwood, Leathery
+__label__5 Amber, Caramel, Vanilla, Sandalwood
+__label__4 Apricot, Amber, Lemon Tree
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__1 Vanilla, Amber
+__label__7 Guaiac Wood, Patchouli Heart
+__label__1 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Amber, Labdanum, Leather, Musk, Tonka Beans, Vanilla
+__label__1 Vanilla, Amber, Patchouli, Sandalwood
+__label__3 Cedar, Sandalwood, Musk, Amber
+__label__12 Leather, Benzoin, Tonka
+__label__1 Indonesian Patchouli Essence, Indian Sandalwood, Amber, Vanilla
+__label__1 Patchouli, Woody Notes, Musk
+__label__7 Leather, Tobacco, Tonka Bean
+__label__0 Blonde Leather Patchouli White Woods Amber
+__label__1 Amber, Cashmere Wood, Musk
+__label__0 Labdanum Rum
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Amber, Vanilla, Clove, Iris, Musk, Sandalwood
+__label__0 Ambroxan, Akigalawood, Indonesian Patchouli Leaf, Cacao Pod
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__1 Wood, Musk
+__label__6 Musk
+__label__3 Tonka Bean, Amberwood, Cacao
+__label__7 Patchouli, Sandalwood
+__label__2 Musk, Amber, Patchouli, Papyrus
+__label__1 Golden Woods Musk
+__label__7 Georgywood, Suede, Vetiver, Cedarwood
+__label__1 Vanilla, Patchouli, Massoia Wood
+__label__7 Sandalwood, patchouli, amber
+__label__1 Cedar, Sensual Benzoin
+__label__1 Sandalwood, Vetiver, Vanilla, Amber, Musk
+__label__4 Amber, Musk, Oakmoss, Agarwood (Oud)
+__label__1 Musk,  Sandalwood,  Cedar,  Vanilla,  Opoponax,  Amber
+__label__5 Tobacco, Amber, Cedar
+__label__0 Sandalwood, Oak Moss, Vetiver
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__0 Sandalwood
+__label__2 oud
+__label__1 Ambery Woody
+__label__1 Vanilla, Musk, Sandalwood, Guaiac Wood, Amber
+__label__2 Cedar, Tonka Bean
+__label__9 Tail Rose
+__label__6 Amber, Musk, Sandalwood, Coumarin, Vanilla
+__label__5 Tonka Bean, Sensual, Rich, Creamy Buttery Lactonic Caramel
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__0 Black Amber, Patchouli
+__label__3 Incense, Amber, Leather, Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__0 Ginger, Fir Resin, Nutmeg, Amber
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__3 Woodsy, Tonka Bean
+__label__6 Moss, Musk, Vetiver
+__label__0 Agarwood, Patchouli, Leatherwood
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__1 Patchouli, Amber, Musk
+__label__1 Cuddly, Creamy Rosewood
+__label__7 Sandalwood, Amber, Musk, Cedar, Oak moss
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Musk, Woody Notes
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Coconut Accords, Wood, Musk
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__7 Virginia Cedar, Amber
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__0 Cedar Wood, Tonka Beans, Vetiver
+__label__1 Musk, Patchouli, Sandalwood
+__label__1 Cedar, Amber
+__label__5 Jasmine
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Woodsy Notes
+__label__1 Liquid Amber, Black Violet, Cream, Mahogany
+__label__1 Patchouli, Earthy, Dry Amber
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__7 Powdery Vanilla, Musk, Woody Accords
+__label__1 Almonds, Cedar, Oakmoss, Tonka Beans, Vanilla
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__0 Benzoin
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__0 Ebony Wood
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__5 White Musk, Blond Wood
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__3 Woody, Spicy
+__label__0 Amber Wood, Sandalwood, White Musk
+__label__1 Honey, Patchouli
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__3 Tonka Bean, Guaiac Wood, Benzoin
+__label__1 Green leaves of lily
+__label__1 Vanilla, Woodsy Notes, Sandalwood, Musk
+__label__7 Patchouli, Cedar, Vanilla, White Musk, Oak Moss
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__1 Apricot, Amber, Lemon Tree
+__label__17 Damascus, Centifolia Rose
+__label__1 Cuddly, Creamy Rosewood
+__label__0 Vetiver, Patchouli
+__label__6 Patchouli, Fir, Cedar
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__2 Sandal Wood, Vanilla, Tonka Bean, Amber, Musk
+__label__0 Musk, Incense, Amber, Resins, Woody Note
+__label__3 Musk, Sandalwood, Patchouli, Amber
+__label__20 White Musk, Amber, Vanilla, Sugar
+__label__1 Coriander
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__0 Guaiac Wood, Benzoin
+__label__5 Amber, Oakmoss, Cedar
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__0 Cedar, Tonka Bean, Musk, Leather, Sandalwood, Oakmoss
+__label__2 Woody Notes, Spices, Musk, Vanilla
+__label__3 Acacia Wood
+__label__0 Sandalwood, Cedarwood
+__label__1 Musk, Vanilla, Woody Notes
+__label__4 Amber
+__label__0 Leather, Suede, Cedar
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__7 Guaiac Wood, Patchouli Heart
+__label__6 Woodsy transparent with coffee, incense touches
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__2 Jasmine, Wisteria
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__4 Vetiver, Patchouli
+__label__1 Sandalwood
+__label__5 Cacao
+__label__3 Guaiac Wood, Benzoin
+__label__8 Amber, Woods, Musk, Patchouli, Sandalwood, Vanilla
+__label__1 Woody Notes, White Musk, Amber
+__label__0 Musk, Cashmere Wood
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__9 Musk, Patchouli, Amber
+__label__9 Red Cedar White Musk, Patchouli
+__label__1 Amber, Orris, Sandalwood
+__label__12 Sandalwood, Oakmoss, Tonka Beans, Virginia Cedar, Vetiver, Musk
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__0 Benzoin
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__1 Aromatic Cedarwood, Tonka, Amber, Vetiver
+__label__2 Vanilla, Ambra
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__3 Apricot, amber, lemon tree
+__label__3 Tonka Bean, Woody Notes
+__label__5 Vegetal Amber, Musk, Mahogany
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__0 Australian Sandalwood, Musk, Vanilla
+__label__1 Amber, Tibetan Musk, Sandalwood, Iris, Vanilla
+__label__3 Amber, Cactus, Cotton Plant Blossom
+__label__4 Cedar, Vetiver, Patchouli, Sandalwood, Ambergris, Musk
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__0 Cedar Wood
+__label__6 Sandalwood, Musk, Vanilla Orchid, Cedar
+__label__7 Ambergris, musk
+__label__1 Joshua Tree, Ambroxan
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cashmeran, Suede, Musk
+__label__1 Sandalwood, Cashmere, Ambergris
+__label__3 Labdanum, Cedar
+__label__0 Cedarwood, Tonka Bean
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Cedar, Vanilla, Patchouli
+__label__0 Benzoin, Guaiac Wood, Tonka Beans
+__label__1 White Musk, Sandalwood
+__label__1 Woody, musky
+__label__1 Sandalwood, Caramel, Beeswax, Patchouli
+__label__2 Vanilla, Tonka Bean, Iris, Sandalwood, Musk, Amber, Vetiver, Cedar, Patchouli
+__label__4 Patchouli, Caramel, Amber, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Guaiac Wood, Musk, Vanilla
+__label__1 Amber, Patchouli
+__label__0 Indonesian Patchouli, Oakmoss
+__label__1 Oakmoss, Amberwood, Patchoulli, Sandalwood, White Musk
+__label__1 Orris Root, Musk, Vanilla
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__1 Patchoulie, Musk, Schijnhulst
+__label__5 Cypress, Cashmere Wood, Amberwood, Sandalwood
+__label__5 Musk, Vanilla
+__label__4 Amber
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__0 Sandalwood, Olive Tree, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Cashmeran, Ambroxan, Musk
+__label__1 Lily, Wild Strawberry
+__label__0 Opoponax, Patchouli, Tonka Beans, Vanilla, Vetiver, White Musk
+__label__0 Musk, Amber, Wood
+__label__3 Amber, Woody
+__label__1 Leather, Oakmoss, Amber
+__label__5 Cacao
+__label__1 Vetiver, Musk, Ambroxan
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__3 Incense, Lotus, Patchouli, Sandalwood, Vanilla, Vetiver
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__9 Tonka Bean, Guaiac Wood
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__1 Rangoon Creeper
+__label__1 Amber, Benzoin, Cedar, Tonka Beans
+__label__6 Musk, Balsam Fir
+__label__3 Guaiac Wood, Benzoin
+__label__2 Sandalwood, Leather note, Amber notes, Oud, Muscs note
+__label__6 Sandalwood, Musk, Amber
+__label__4 Sandal Wood, Musk, Vetiver
+__label__1 Virginia Cedar
+__label__3 Musk, Patchouli, Amber, Tobacco
+__label__1 Rangoon Creeper
+__label__1 Cotton Candy, Musk, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__3 Amber, Moss, Musk, Vanilla, Vetiver
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__0 Cedar, Benzoin, Suede Accord
+__label__0 Sandalwood, Tonka Bean, Amber, Coconut, Vanilla, Oak Moss, Cedar, Styrax
+__label__3 Leather, Papyrus
+__label__0 Vetiver, Ceder, WhiteMusk
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__6 Musk, Vanilla
+__label__4 Vanilla, Amber
+__label__0 Vanilla, Sandalwood, Vetiver, Cedarwood, Olivewood, Amber-like-notes, Musk-like-notes
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Powdery Vanilla, Musk, Woody Accord
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__6 Patchouli, Fir, Cedar
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__18 Rose, Geranium, Jasmine, Tea
+__label__2 Vanille, Tonka Bean
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__0 Cashmere Wood, Musk
+__label__4 Sugar, Vanilla, Cedar, White Musk
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__1 Bergamot, Gardenia, Pelargonium, Cotton Candy, Flowers
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__8 Musk, White Wood
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__9 Cedar, Musk
+__label__3 Paraguayan Lignum Vitae, Indonesian Patchouli, Laotian Benzoin, Copper Accords
+__label__1 Woody Notes, Musk
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__3 Patchouli
+__label__1 Sandalwood, Patchouli, Amber, Vetiver, Sensual Musk
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__3 Musk, Patchouli, Cedar Wood
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__0 Musk, Amber, Wood
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__2 Jasmine, Wisteria
+__label__1 Amber, Precious Musk, Guaiac Wood
+__label__7 Vetiver, Cedar, White Musk
+__label__0 Cedar, Musk, Sandalwood
+__label__6 Rose, Vanilla, Ginger
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__1 Maple, Vanilla Styrax, Benzoin
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__0 Sandalwood, Cedar, Amber, Labdanum
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Sandalwood, Amber, Musk, Vanilla, Oak Moss, Cedar
+__label__0 Vetiver
+__label__1 Patchouli, Amber, Musk
+__label__1 Amber, Virginia Cedar
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__3 Patchouli, Cedar, Vetiver, Frankincense, Musk, Tonka Bean
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__0 Patchouli, Virginia Cedar, Benzoin, Agarwood, Leather, Raspberry
+__label__19 Tobacco, Amber, Guaiac Wood, Sandalwood, Haitian Vetiver, Madagascar Vanilla, White Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__7 cypress, amber, musk, cedar
+__label__2 Sandalwood, Vanilla, Amberwood
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__5 Cedar, Musk, Patchouli, Sandalwood
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__2 Vetyver, Amber, Musk, Oakmoss
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Cashmere Wood, Musk
+__label__1 Musk Wood, Incense, Oakmoss
+__label__5 Suede Musk Sandalwood Cashmeran
+__label__3 Leather, Benzoin, Incense, Cedar, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__10 Marshmallow, Vanilla, Sandalwood, Heliotrope
+__label__2 Amber, Palisander Rosewood
+__label__4 Vanilla, Amber
+__label__1 Sandalwood, Musk, Vanilla
+__label__5 Cedar, Amber, Musk, Vanilla
+__label__1 Honey, Sandalwood, Tonka Bean, Amber, Musk, Civet, Vanilla, Oakmoss, Vetiver
+__label__4 Amber, Patchouli, Musk
+__label__5 Cedar, Leather, Amberwood, BenzoinTolu,  Balsam Vetiver
+__label__3 Sandalwood, Cedar, Vetiver, Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__12 Cedar Wood, Fir, Patchouli
+__label__5 Oak moss, musk, ambergris, vanilla
+__label__0 Cashmere Wood, Musk, Amber, Vanille
+__label__8 Musk, Praline, Tonka Beans, Vanilla, Vetiver
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__7 woody notes, patchouli, cedar
+__label__0 White cedar, patchouli, amber wood, vanilla
+__label__1 Patchouli, Beeswax, Caramel, Licorice
+__label__5 Violet Leaf, Tahiti Tonka, Light Wood
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__3 Vanilla Absolute, Sandalwood, White Musk
+__label__2 Tonka Bean, Cocoa
+__label__0 Haitian vetiver, tonka bean, amberwood
+__label__0 Wood, Almond
+__label__6 Musk, Oakmoss, Cedar, Tobacco, Amber
+__label__5 Floral Ambery Woody
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__0 Tonka Bean, Tahitian Vetiver, Cedar
+__label__3 Amber, Woody
+__label__1 Patchouli, Sandalwood, Vanilla, White Musk
+__label__1 Vanilla, Musk
+__label__3 Leather, Moss, Patchouli
+__label__8 White Musk, Woody Notes, Madagascar Vanilla
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__1 Ambergris, vanilla, leather tonka bean, patchouli, musk, sandalwood, cedar, plum, styrax, oakmoss
+__label__2 Amber, Musk, Sandalwood
+__label__6 Amber, Musk, Sandalwood
+__label__1 Patchouli, Vetiver
+__label__1 Patchouli, Musks, Osmanthus
+__label__1 Amber, Orris, Sandalwood
+__label__1 Sandalwood, Vetiver, Rosewood, Ambergris
+__label__6 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__4 Sandalwood, California Cedar, Vanilla, Musk
+__label__0 Vetiver, Patchouli
+__label__3 Cedar, Olibanum, Vetiver
+__label__1 Powdery
+__label__5 Musk, Plum, Cedarwood
+__label__1 Sandalwood, Patchouli
+__label__5 Musk, Vanilla
+__label__7 Woody, Musk, Vanilla
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__1 Vanilla, Musk, Pacsuli
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Cedar, Woody Notes, Amber, Vanilla, Musk
+__label__1 Woody, Oriental, Musky
+__label__0 Cashmere Wood, Musk
+__label__7 Balsa Wood, Haitian Vetiver, Laotian Benzoin
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Patchouli
+__label__2 Styrax, Benzoin
+__label__0 Effervescent Citrus
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__0 Dry Amber, Madagascar Vanilla, Patchouli, Cashmere, Dry Amber
+__label__1 Virginia Cedar, Incense
+__label__1 Vanilla, Sandalwood, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__9 Tonka Bean, Guaiac Wood
+__label__7 Tobacco, Leather, Tonka Bean
+__label__0 Indian Patchouli, amber, woody notes, leather
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__0 Vanilla Pods from Madagascar, White Musk
+__label__1 Plants, Musk, Red Woods
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__1 Caramel, Vanilla, Patchouli
+__label__8 Vanilla, Benzoin, Musk, Amber
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__5 Floral Ambery Woody
+__label__1 Apricot, Amber, Lemon Tree
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__0 Woody, Amber, Vanilla
+__label__12 Cedar Wood, Fir, Patchouli
+__label__0 Praline, Coconut Salt, Suede, Musk
+__label__3 Ambery, Cedar wood
+__label__1 Mandarin Orange, Agarwood
+__label__0 Incense, Benzoin
+__label__2 Neroli, Orange Blossom, Earthy Vetiver, Saffron
+__label__8 Haitian Vetiver, Vintage Vanilla, Golden Amber
+__label__5 Amber, Patchouli, Suede
+__label__4 Patchouli, Amber
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Iris, Vanilla
+__label__17 Damascus, Centifolia Rose
+__label__1 Amber, Musk, Mahogany
+__label__0 Sandalwood, Amber, Patchouli, Oakmoss, Vetiver
+__label__2 Ebony, Woody Notes
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__0 Sandalwood, Amber, Musk, Vanilla, Oakmoss, Cedar
+__label__3 Sandalwood, Benzoin, White Musk
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Honey, Sandalwood, Tonka, Bean, Amber, Musk, Civet, Vanilla, Oakmoss
+__label__7 Ginger, Jasmine, Juniper, Nutmeg, Pepper, Violet, Whisky
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Patchouli, Amber
+__label__7 Labdanum, Sandalwod, Patchouli, Vetiver, Incense, Cedar, White Musk
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Vanilla, Cedar
+__label__2 Sensual Addiction Of The Tonka Bean Note
+__label__1 Gardenia
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__7 Vetiver, Suede, Ambergris
+__label__9 Cedar, Musk
+__label__1 White Musk, Woody Notes, Madagascar Vanilla
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__0 Rare Wood, Amber Fat, White Musk
+__label__1 Vanilla, Iris, Sandalwood
+__label__3 Sandalwood, Amber, Cedar, Oakmoss
+__label__1 Patchouli, Black Musk, Vetiver, Moss
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__0 Ambergris, Civet, Musk, Cedar Wood, Sandalwood
+__label__0 Moss, Agarwood, Amber, Atlas Cedar
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Labdanum, Sandalwood, Musk, Guaiac Wood, Vetiver, Incense
+__label__0 Cypress, Amber, Musk, Cedar
+__label__1 Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Cedar, Tobacco.
+__label__0 Amber, Musk, Platanus, Saffron, Woody Notes
+__label__3 Cashmere Woods, Madagascar Vanilla, Burnt Amber, Australian Sandalwood
+__label__3 Sandalwood, Tonka,  Evernyl
+__label__1 Cedar, Sandalwood, Vanilla, Tonka Bean
+__label__2 Musk, Vetiver
+__label__1 Amberwood, Cashmere Wood, Cypress, Sandalwood, Vanilla
+__label__5 Leather, Sandalwood, Tonka Beans
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__1 Cedar, Vanilla, Raspberry
+__label__3 Natural Oud Oil, Patchouli
+__label__5 Nutmeg, Oakmoss, Sandalwood
+__label__1 Musk, Patchouli
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__1 Patchouli, Sandalwood
+__label__1 Guimave, Vanilla, Heliotrope, Sandalwood
+__label__3 Amber, Cactus, Cotton
+__label__5 Amber, Musk, Sandalwood
+__label__5 Vanilla, Blackberry, Amber
+__label__1 Golden Woods, Cedar, Cashmere, Musk, Vanilla, Caramel
+__label__1 Patchouli, White Honey, Amber
+__label__5 Patchouli, White Leather
+__label__6 Tonka Bean, Patchouli, Opoponax, Vanilla, Vetiver, White Musk
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__4 Musk, Sandalwood, Virginia Cedar, Amber, Nutmeg, Vanille, Orris Root
+__label__7 Vanilla, Musk, Woody Accords
+__label__2 Amber, Patchouli, Vanilla, Musk
+__label__1 Incense, Gaïac Wood, Amber
+__label__0 Sandalwood, Vanilla, Musk
+__label__5 Amber, Woody Notes
+__label__1 Cedar, Woody Notes
+__label__1 Sandalwood, Patchouli, Musk
+__label__7 Patchouli
+__label__1 Virginia Cedar
+__label__3 Tonka Bean, Woody Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__0 Sandalwood, Vetiver , Guaiac Wood
+__label__0 Vetiver, Patchouli
+__label__0 Guaiac Wood, Oakmoss, Patchouli, Ambergris
+__label__1 Pearl Musk, Sandalwood, Patchouli
+__label__2 Voluptuous Sensuality, Living Temple Incense, Amber, Vanilla Bean, Toffee, Tonka Bean
+__label__2 Sandalwood, Musk, Amber
+__label__2 Madagascar Vanilla, Virginian Cedar, Atlas Cedar, Vetiver, Oakmoss
+__label__7 Musk, Vanilla, Woody Notes
+__label__3 Patchouli, Tonka Beans, Velvet, Woody Notes
+__label__0 Musk
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__0 Amber, Cedar, Musk, Tonka Beans, Moss
+__label__0 Aldehyde, Jasmine, White Flowers
+__label__4 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__7 woody notes, patchouli, cedar
+__label__0 Ebony Wood
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__6 Vanilla, Musk
+__label__2 Sweet Wood
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__1 Patchouli, Moss, Woody-Amber, Sandalwood, Musk, Dry Woods.
+__label__1 Patchouli, Vanilla, Moss
+__label__8 Sandalwood, Musk
+__label__5 Jasmine
+__label__0 Leather, sandalwood, amber, patchouli, musk, oakmoss, cedar
+__label__8 Tonka Bean, Patchouli
+__label__3 Vetiver, Sandalwood, Cedar, Tonka Bean
+__label__4 rose
+__label__2 Styrax, Benzoin
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__18 balsamic
+__label__1 Patchouli, Virginia Cedar
+__label__7 Amber, Red Cader, Vanilla
+__label__0 Aldehyde, Jasmine, White Flowers
+__label__3 Sandalwood, amber, musk
+__label__2 Amber, Musk, Jasmine
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__1 Amber Accord, Sandalwood
+__label__2 Musk, Tonka Bean, Incense, Saffron
+__label__1 Sandalwood, Musk, Patchouli
+__label__3 Cashmeran, Fir
+__label__6 Rose, Vanilla, Ginger
+__label__0 Musk, Amber, Wood
+__label__4 Amber, Patchouli, Musk
+__label__5 Leather, Tonka Bean, Musk, Cedar
+__label__1 White Musk, Blackberry, Raspberry, Amber
+__label__3 Ambergris, Amber, Salt
+__label__1 Amber, Cedar, Leather, Vetiver, Patchouli, Roots
+__label__1 Floral, Fruity, Musky
+__label__0 Pine Tree, Cypress, Laurels
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber, Patchouli
+__label__0 Leather, Vetiver, Tonka Bean
+__label__2 Roasted Tonka Grain, Laos Benzoin
+__label__1 Honey, Sandalwood, Vetiver
+__label__0 Cashmere Wood, Musk
+__label__0 Leather, tonka bean, amber, musk, oakmoss
+__label__0 Patchouli, Sandalwood
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Amber, Musk, Cashmere Wood
+__label__4 Patchouli, Vanilla Leather
+__label__7 Vetiver, Sandalwood, Musk, Amber
+__label__0 Absolute Vanilla Orchid Tahitensis, Praline, Patchouli, Papyrus
+__label__12 Vetiver, Oakmoss, Leather, Myrrh, Civet, Tonka Bean, Amber
+__label__1 Woody Notes
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__1 Akigalawood
+__label__1 Amber, Musk, Mahogany
+__label__2 Lemon, Mint, Wood Moss
+__label__0 Vetiver, Patchouli
+__label__1 Leather, Vanilla Pod, Amber
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__3 Vetyver, French Labdanum, Patchouli, Tonka Bean
+__label__5 Oakmoss, Musk, Leather, Patchouli
+__label__1 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__0 Ebony Wood
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__6 Woody Leather, Musk
+__label__1 Patchouli, Oak Moss, Leather
+__label__0 Musk, Lactone, Woody Amber
+__label__3 Sandalwood, Amber, Patchouli, Musk, Coconut
+__label__3 Oakmoss, Cedar, Nutmeg, Woody Notes
+__label__1 White Musk, White Woods, Vanilla orchid
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__3 Amber, Patchouli, Woodsy Notes, Musk
+__label__9 Musk, Sandalwood, Vanilla
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__3 Sandalwood, Tonka, Evernyl
+__label__3 Sandalwood, Tonka Bean
+__label__3 Patchouli, Amber
+__label__1 Musk, Vanilla, Amberwood
+__label__0 Black Violet, Liquid Amber, Mahogany, Cream Accords
+__label__3 Guaiac Wood, Benzoin
+__label__0 Vanilla, Musk
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__5 Moss, Sandalwood, Coumarin
+__label__5 Amber, Musk, Sandalwood, veti
+__label__1 White Musk, Amber, Vanilla, Sugar, Benzoin
+__label__1 Incense, Gaïac Wood, Amber
+__label__5 Caramel, Sandalwood, Tonka Beans, Vanilla
+__label__1 Cedar, Woody Notes
+__label__2 Sweet Wood
+__label__7 Patchouli, Cedar, Vetiver, Benzoin
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__2 Lemon, Mint, Wood Moss
+__label__2 Sandalwood, Benzoin, White Musk
+__label__4 Vanilla, Musk, Cedar, Sandalwood, Oakmoss, Amber, Vetiver
+__label__1 Ambergris, Musk
+__label__7 Vetiver, Sandalwood, Musk, Amber
+__label__3 Amber, Patchouli, Agarwood, Myrrh, Labdanun
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__0 Gray Amber, Musk
+__label__1 Black Musk, Moss, Patchouli
+__label__4 Oak Moss, Rich And Musty Oud
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__0 Musk, Sandalwood, Patchouli, Oak Moss, Virginia Cedar, Amber, Leather
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Skin Accord, Tonka Bean
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__3 Cashmere Wood, Moss, Rippled Sand Accord
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__3 Cedar, Ambroxan
+__label__2 Ambroxan, Vanilla
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__6 Cedar, labdanum, ambroxan
+__label__0 Musky Woody
+__label__1 Caramel, Cashmere, Vanilla, White Musk
+__label__1 Patchouli, Amber, Musk, Vanilla, Woodsy Note
+__label__8 Cedarwood, Vanilla, Musk
+__label__6 Amber, Incense, Sandalwood, Patchouli, Agarwood (oud)
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss, Green Tea, Green Accord
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__3 Sandalwood
+__label__8 Musk
+__label__3 Leather
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__5 Oakmoss, Musk, Patchouli, Leather
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__1 Amber, patchouli, vanilla, musk, sandalwood
+__label__1 Patchouli, Amber, Musk
+__label__3 Amber, Cactus And Cotton Flower
+__label__8 Vanilla, Sugar, White Musk, Cedar
+__label__4 Vetiver, Sandalwood, Cedar, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Ambergris, Cashmere wood, Sandalwood
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__1 Sandalwood
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__16 Sandalwood, Cedarwood
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__5 Sandalwood, Musk
+__label__8 Ambroxan, Benzoin, Woodsy Notes, Vanilla
+__label__4 Woody Amber, Cedar Accords
+__label__1 Vanilla, White Musk
+__label__2 Cistus, Myrrh, Oud, Amber
+__label__2 Tolu Balsam, Sandalwood, Amber
+__label__1 Vanilla, Woodsy Notes
+__label__1 Virginia Cedar, Vanilla, Amber
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__0 Vetiver and Patchouli
+__label__1 Musk, Raspberry
+__label__1 Patchouli, Tonka Bean, Vanilla, Praline
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__2 Jasmine, Wisteria
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__3 Leather, Woody Notes
+__label__3 Vetiver, Sandalwood, Amber
+__label__1 Cedar, Vanilla, Patchouli
+__label__1 Madagascar Vanilla Absolute, Ambergris
+__label__1 Blackberry, Sensual Musk
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__18 Vanilla, Ambergris, Musk, Patchouli
+__label__7 Musk, Sandalwood
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__1 Sandalwood, Musk
+__label__5 Labdanum, Musk
+__label__3 Labdanum, Ceder
+__label__1 Sandalwood, Vetiver, Vanilla, Peru Balsam
+__label__3 Woody, Spicy
+__label__6 Rose, Vanilla, Ginger
+__label__0 Sandalwood, tonka bean, amber, patchouli, musk, oakmoss, cedar, tobacco
+__label__1 Virginia Cedar
+__label__1 Sandalwood, Amber, Vanilla
+__label__6 Woody, Musk, Amber
+__label__1 Patchouli, Vanilla, Ambroxan, Woody Notes
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__1 Oakmoss, Musk, Black Currant
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Cashmere Woods
+__label__3 Amber, Cedar, Toacco
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__3 Leather
+__label__1 White Musk, Vanilla
+__label__0 Amber, musk
+__label__0 Amber, Musk, Vanilla
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__11 Ambery Woods
+__label__1 Patchouli,Cashmeran,Tonka bean, Almod milk
+__label__2 Benzoin, Tonka Bean, Vanilla
+__label__0 Cypress, Amber, Musk, Cedar
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__0 Woody Notes, Vetiver
+__label__5 Caramel, Patchouli, Rum, Sandalwood, Vanilla
+__label__5 Sandalwood, Cashmerean, Musk, Amber, Vanilla
+__label__12 Gaiac Wood
+__label__1 Iris, Vanilla
+__label__5 Vetiver, Moss, Sandalwood, Musk, Black Currant
+__label__5 Oakmoss, Sandalwood, Civet, Cedarwood, Musk, Orris, Tonka Bean
+__label__0 Patchouli, Amber, Sandalwood, Vetiver, Benzoin, Cinnamon
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__0 Oakmoss, Patchouli, Vetiver
+__label__1 Musk, Cashmere Wood, Vetiver
+__label__0 Amber, Guaiac Wood, Leather, Lichen, Musk
+__label__1 Lily Of The Valley, Woody, Musky
+__label__4 Geranium, Amber, White Musks
+__label__1 Musk, Sandalwood, Lemon Tree
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Lily, Wild Strawberry
+__label__3 Sandalwood, Tonka Bean
+__label__12 Oakmoss, Sandalwood, Patchouli, Labdanum
+__label__1 Ambrette Seeds, Tonka Beans, Musk
+__label__1 White Musk, Vetiver, Cedar Wood
+__label__1 Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__3 Patchouli, Sandalwood
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__3 Creamy Amber
+__label__0 Vetiver, Leather, Cedarwood
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__3 Amber, Frankincense, Musk, Patchouli, Vanilla, Vetiver
+__label__0 Suede, Cedar Essence, Black Tea, Woody Notes
+__label__0 Tobacco, Oakmoss, Musk
+__label__15 Sandalwood, Musk, Vetiver, Cedar
+__label__6 Vanilla, Musk, Labdanum
+__label__7 Virginia Cedar, Amber
+__label__0 White Musk, Sandalwood, Vanilla
+__label__0 Cedar, Vetiver
+__label__0 Musk, Sandalwood, Cedar, Oakmoss
+__label__1 Dry Amber, Vanilla
+__label__5 Musk, Amber, Vanilla, Woody notes
+__label__0 Patchouli, Vanilla, Musk
+__label__9 Patchouli, Sandalwood
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__2 Cedar Wood, Patchouli, Vanilla, Leather, Vetiver, Labdanum, Musk
+__label__5 Musk, Plum, Cedarwood
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__1 Musk
+__label__3 Aromatic Scents
+__label__2 oud
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__4 Roasted Cocoa
+__label__1 Tonka Bean, Orchid, Sandalwood Vetiver, Iris Ambergris
+__label__1 Floral, Musky
+__label__1 Amberwood, Cedar, Chestnut, Vanilla
+__label__1 Vanilla, Musk, Labdanum
+__label__1 Patchouli, Vetiver
+__label__5 Patchouli, Cedar, Amber, Tonka, Vanilla
+__label__0 Amber, Musk, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Silver Moss, Mineral Amber, Musk
+__label__1 Birch, Vetiver, Amber
+__label__0 Patchouli, musk, vanilla, amber
+__label__5 Musk, Sandalwood, Vanille
+__label__1 Woody, Oriental, Musky
+__label__4 Woody Amber, Cedar Accords
+__label__0 Cedar Wood
+__label__0 Patchouli, sandalwood, musk, amber
+__label__7 Cashmere Wood, Tonka Bean, Orcanox
+__label__1 Wood, Musk
+__label__6 Vanilla, Musk, Labdanum
+__label__2 Guaiac Wood, Woodsy Notes, Virginia Cedar, Amber, Vanilla
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Cedarwood, Patchouli, Sandalwood, Benzoin
+__label__7 Palisander Rosemary, Oakmoss, White Musk, Amber, Vanilla, Praline, Woody notes
+__label__5 Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__8 Luid Sandalwood, Jasmine, Amber, Vanilla
+__label__5 Coconut, Musk, Sandalwood
+__label__6 Sandalwood, Cedar, Vanilla
+__label__1 Patchouli, Sandalwood
+__label__1 Musk, Patchouli, Sandalwood, Vanilla, Woody Notes
+__label__18 Milk, Sandalwood, Cardamom
+__label__1 Virginia Cedar, Incense
+__label__0 Sandalwood, Amber, Musk, Vanilla
+__label__6 Incense, Musk, Tonka Bean, Saffron
+__label__3 Sandalwood, Amber, Coconut, Patchouli, Vanilla, Cedar
+__label__18 Jasmine, Amber, Balsamic
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__1 Musk, Woody Accord
+__label__2 Sandalwood, Amber, Patchouli, Musk, Benzoin, Caramel, Vetiver, Vanilla
+__label__0 Incense, Amber, Cedar, Sandalwood, Patchouli, Labdanum, Amber wood
+__label__0 Haitian Vetiver, Tonka Bean, Amberwood
+__label__3 Lamon, Woody
+__label__0 Wood, Almond
+__label__0 Burnt Amber, Cashere Woods, Vanilla, Sandalwood
+__label__5 Musk, Grey Amber, Inoki Wood
+__label__1 Amber, Musk, Powdery Notes, Cedar, Sandalwood
+__label__1 Cashmeran, Amber, Musk
+__label__1 Dry Amber, Vanilla
+__label__0 Sandalwood, Amber, Patchouli, Civet, Oakmoss Vetiver
+__label__2 Agarwood, Amber
+__label__0 Vanilla, Musk
+__label__1 White Amber, Woods
+__label__1 Amber, Vanilla, Ambergris, Musk
+__label__7 Amber, palisander rosewood
+__label__3 Cedarwood, Patchouli and Vetiver, Musk
+__label__6 Patchouli, Fir, Cedar
+__label__2 Vetiver, Sandalwood, Amber, Benzoin, Tonka Bean, Honey, Oakmoss
+__label__1 Amber, Incense, Guaiac Wood
+__label__3 Woody Notes, Tonka Bean
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__5 Delicate Musky Sensual Woods
+__label__1 Woody Notes, Musk
+__label__1 Cedar, White Musk
+__label__3 Cedarwood, Patchouli, Vetiver, Musk
+__label__1 Amber, Caramel, Praline, Sandalwood, Vanilla
+__label__0 Woody Notes, Vetiver
+__label__1 Rose, Sensual Musk
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Patchouli
+__label__2 Tonka Bean, Cacao, Vanilla, Praline, Sandalwood, Amber, Cashmere Wood, Musk, Patchouli, Cinnamon, Cedar
+__label__0 Leather, Oakmoss, Amber
+__label__1 Leather, Musk
+__label__3 Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__1 Virginia Cedar
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__0 Vetiver, Vanilla
+__label__5 Cacao
+__label__14 Leather, Oakmoss, Vanilla, Woody Notes
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__0 Leather
+__label__0 Amber, Leather
+__label__1 Neroli, Rose
+__label__3 Labdanum, Sandalwood, Cypress, Musk, Amber
+__label__1 Patchouli, Vanilla And Honey
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__7 Sandalwood, Patchouli
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Amber Milk, Mousse Australian, Sandalwood, Vanilla
+__label__0 Amber, patchouli, vanilla, musk, sandalwood
+__label__0 Honey, Amber, Musk, Oakmoss
+__label__3 Tobacco, Patchouli, Vetiver
+__label__1 White Wood, Musk, Amber, Cedar, Violet
+__label__0 Amber, Sandalwood, Patchouli
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cedar
+__label__1 Cedar, Patchouli, Tonka Bean
+__label__2 Iris, Jasmine, Sweet Vanilla, Patchouli
+__label__1 Vetiver, Sandalwood, Cashmere, Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__1 Patchouli, Sandalwood, Vanilla, Cashmeran
+__label__12 Woody, Masculine, Cedarwood, Vetiver, Patchouli Accords
+__label__0 Cashmere Wood, Agarwood (Oud), Labdanum, Patchouli, Ebony Tree, Musk, Madagascar Vanilla, Suede
+__label__3 Amber, Musk
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__7 White Musk, Vetiver, Cedar
+__label__0 Leather, Cedar, Vetiver
+__label__3 Creamy Amber
+__label__1 Amber, Musk, Patchouli, Woody Notes
+__label__7 Frankincense, Musk, Saffron, Tonka Beans
+__label__1 Patchouli, Woods, Amber, Orcanox, Vanilla
+__label__6 Honey, Patchouli
+__label__7 Woodsy Notes, Vetiver
+__label__0 Leather, Suede, Cedar
+__label__8 Sandalwood, Musk
+__label__2 Cashmere Wood, Amber, Musk
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__5 Cedar, Musk, Patchouli, Wood
+__label__1 Oined with Damascus, Centifolia Rose
+__label__1 Tonka bean, amber, benzoin, cedar
+__label__3 Violetwhite Wood, Musk, Amber, Cedar, Violet
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__2 Ebony, Woodsy Notes
+__label__5 Lemon Tree, Musk, Sandalwood
+__label__5 Amber, Musk, Cashmere Wood
+__label__7 Patchouli, Brown Sugar Accord
+__label__0 Warm Amber, Musk, Tonka Bean
+__label__1 Tonka Bean, Vanilla, Olibanum
+__label__2 Cedar, Tonka Bean
+__label__0 Sandalwood, Oakmoss, Musk
+__label__1 Cedarwood, Vanilla, Tonka Bean, Cybet, Musk, Amber
+__label__0 Louro Amarelo Wood, Sandalwood, Musky Notes
+__label__1 Musk, Sandalwood, Patchouli, Oakmoss, Cedar, Pepper, Pine Tree
+__label__2 Cedar, Oakmoss, Vanilla, Vetiver
+__label__1 Musk, Cedar, Cashmirwood, Patchouli
+__label__1 Patchouli, Sandalwood
+__label__1 Oud, Patchouli, Grey Amber, Musk
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__1 Musk, Wood
+__label__0 Leather
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__3 Sandalwood, Tonka Bean
+__label__2 Amber, Musk, Jasmine
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__1 Creamy Musk, Orris Root, Sensual Woods
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__1 Amber, Civet, Honey, Lichen, Musk, Sandalwood, Tonka Beans, Vanilla
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__7 Sandalwood, Tonka Bean, Patchouli, Vanilla
+__label__1 Amber, Cedar, Musk
+__label__3 Patchouli, Vetiver, Moss
+__label__1 Vetiver, Patchouli, Oakmoss, Musk, Sandalwood
+__label__6 Wood, Cedar Wood, Patchouli, Animal, Sandalwood
+__label__1 Marshmallow, Sandalwood, Vanilla
+__label__5 Amber, Vanilla, Musk
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Musk, Moss
+__label__13 Sandalwood, Cedarwood
+__label__7 Benzoin, Olibanum, Patchouli, Suede
+__label__5 Cedar, Sandalwood, Moss, Vanilla
+__label__1 Musk, vanilla
+__label__4 Violet Root, Iris, Nectarine, Peach Blossom, Rose Hip Red Cyclamen, Blue Hyacinth
+__label__1 Vetiver, White Cedar Extract, Cedar
+__label__3 Cedarwood, Patchouli, Vanilla
+__label__1 Cedarwood
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Vetiver, Vanilla
+__label__0 Leather, amber, musk, oakmoss, balsam fir, vetiver, incense, cedar
+__label__1 Vanilla, Amber
+__label__1 Cashmere, Sandalwood, Ambergris
+__label__6 Chocolate,cashmere Wood, Patchouli, Tonka Bean
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Musk, Oakmoss, Agarwood, Leathery
+__label__5 Amber, Caramel, Vanilla, Sandalwood
+__label__4 Apricot, Amber, Lemon Tree
+__label__5 Sandalwood, Musk, Vanilla, Woodsy Notes
+__label__0 Labdanum, Leather, Amber, Benzoin, Oakmoss, Vanilla
+__label__2 Vetiver, Litchi, Tonka Bean, Teak Wood
+__label__1 Vanilla, Amber
+__label__7 Guaiac Wood, Patchouli Heart
+__label__1 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Jasmine, Rose, Tuberose, Carnation
+__label__1 Sandalwood, Amber, Musk, Vetiver, Brazilian Rosewood
+__label__7 Amber, Labdanum, Leather, Musk, Tonka Beans, Vanilla
+__label__1 Vanilla, Amber, Patchouli, Sandalwood
+__label__3 Cedar, Sandalwood, Musk, Amber
+__label__12 Leather, Benzoin, Tonka
+__label__1 Indonesian Patchouli Essence, Indian Sandalwood, Amber, Vanilla
+__label__1 Patchouli, Woody Notes, Musk
+__label__7 Leather, Tobacco, Tonka Bean
+__label__0 Blonde Leather Patchouli White Woods Amber
+__label__1 Amber, Cashmere Wood, Musk
+__label__0 Labdanum Rum
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__1 Amber, Vanilla, Clove, Iris, Musk, Sandalwood
+__label__0 Ambroxan, Akigalawood, Indonesian Patchouli Leaf, Cacao Pod
+__label__5 Cypress, Cashmere Wood, Amber wood, Sandalwood, Vanilla
+__label__1 Wood, Musk
+__label__6 Musk
+__label__3 Tonka Bean, Amberwood, Cacao
+__label__7 Patchouli, Sandalwood
+__label__2 Musk, Amber, Patchouli, Papyrus
+__label__1 Golden Woods Musk
+__label__7 Georgywood, Suede, Vetiver, Cedarwood
+__label__1 Vanilla, Patchouli, Massoia Wood
+__label__7 Sandalwood, patchouli, amber
+__label__1 Cedar, Sensual Benzoin
+__label__1 Sandalwood, Vetiver, Vanilla, Amber, Musk
+__label__4 Amber, Musk, Oakmoss, Agarwood (Oud)
+__label__1 Musk,  Sandalwood,  Cedar,  Vanilla,  Opoponax,  Amber
+__label__5 Tobacco, Amber, Cedar
+__label__0 Sandalwood, Oak Moss, Vetiver
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__0 Sandalwood
+__label__2 oud
+__label__1 Ambery Woody
+__label__1 Vanilla, Musk, Sandalwood, Guaiac Wood, Amber
+__label__2 Cedar, Tonka Bean
+__label__9 Tail Rose
+__label__6 Amber, Musk, Sandalwood, Coumarin, Vanilla
+__label__5 Tonka Bean, Sensual, Rich, Creamy Buttery Lactonic Caramel
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__0 Black Amber, Patchouli
+__label__3 Incense, Amber, Leather, Musk, Vanilla
+__label__3 Ambroxan, Cedar, Labdanum
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__0 Ginger, Fir Resin, Nutmeg, Amber
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__3 Woodsy, Tonka Bean
+__label__6 Moss, Musk, Vetiver
+__label__0 Agarwood, Patchouli, Leatherwood
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__3 Vetiver, Musk, Sandalwood, Patchouli, Oak Moss, Nutmeg, Clove, Cinnamon, Tonka Bean, Anise
+__label__1 Patchouli, Amber, Musk
+__label__1 Cuddly, Creamy Rosewood
+__label__7 Sandalwood, Amber, Musk, Cedar, Oak moss
+__label__5 Cedar, Moss, Musk, Amber, Sandalwood
+__label__0 Musk, Woody Notes
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Coconut Accords, Wood, Musk
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__7 Virginia Cedar, Amber
+__label__3 Labdanum, Amber, Patchouli, Agarwood, Myrrh
+__label__0 Cedar Wood, Tonka Beans, Vetiver
+__label__1 Musk, Patchouli, Sandalwood
+__label__1 Cedar, Amber
+__label__5 Jasmine
+__label__21 Sandalwood, Musk, Amber, Cedar, Vanilla
+__label__0 Woodsy Notes
+__label__1 Liquid Amber, Black Violet, Cream, Mahogany
+__label__1 Patchouli, Earthy, Dry Amber
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__7 Powdery Vanilla, Musk, Woody Accords
+__label__1 Almonds, Cedar, Oakmoss, Tonka Beans, Vanilla
+__label__3 Amber, Sandalwood, Patchouli, Vanilla, Musk
+__label__0 Benzoin
+__label__7 Sandalwood, Amber, Musk, Cedar, Oakmoss
+__label__0 Ebony Wood
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__5 White Musk, Blond Wood
+__label__1 Tonka, Patchouli, Ambergris, Amber Woods
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__3 Woody, Spicy
+__label__0 Amber Wood, Sandalwood, White Musk
+__label__1 Honey, Patchouli
+__label__8 Sensual Oriental Character - Gaiac Wood, Sandalwood, Bourbon Vanilla, Musk, Amber
+__label__3 Tonka Bean, Guaiac Wood, Benzoin
+__label__1 Green leaves of lily
+__label__1 Vanilla, Woodsy Notes, Sandalwood, Musk
+__label__7 Patchouli, Cedar, Vanilla, White Musk, Oak Moss
+__label__7 Sandalwood, Ambroxan, Woodsy Notes, Musk
+__label__1 Apricot, Amber, Lemon Tree
+__label__17 Damascus, Centifolia Rose
+__label__1 Cuddly, Creamy Rosewood
+__label__0 Vetiver, Patchouli
+__label__6 Patchouli, Fir, Cedar
+__label__1 Iris, Vanilla, White Peach, Powdery Notes
+__label__2 Sandal Wood, Vanilla, Tonka Bean, Amber, Musk
+__label__0 Musk, Incense, Amber, Resins, Woody Note
+__label__3 Musk, Sandalwood, Patchouli, Amber
+__label__20 White Musk, Amber, Vanilla, Sugar
+__label__1 Coriander
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__0 Guaiac Wood, Benzoin
+__label__5 Amber, Oakmoss, Cedar
+__label__8 Patchouli, Praline, Tonka Beans, Vanilla
+__label__0 Cedar, Tonka Bean, Musk, Leather, Sandalwood, Oakmoss
+__label__2 Woody Notes, Spices, Musk, Vanilla
+__label__3 Acacia Wood
+__label__0 Sandalwood, Cedarwood
+__label__1 Musk, Vanilla, Woody Notes
+__label__4 Amber
+__label__0 Leather, Suede, Cedar
+__label__0 Tonka, Sandal, Amber, Cedar, Patchouli, Vanilla
+__label__7 Guaiac Wood, Patchouli Heart
+__label__6 Woodsy transparent with coffee, incense touches
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__2 Jasmine, Wisteria
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__7 Oak Moss, Cedar, Sandalwood, Amber, Musk
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__4 Vetiver, Patchouli
+__label__1 Sandalwood
+__label__5 Cacao
+__label__3 Guaiac Wood, Benzoin
+__label__8 Amber, Woods, Musk, Patchouli, Sandalwood, Vanilla
+__label__1 Woody Notes, White Musk, Amber
+__label__0 Musk, Cashmere Wood
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__9 Musk, Patchouli, Amber
+__label__9 Red Cedar White Musk, Patchouli
+__label__1 Amber, Orris, Sandalwood
+__label__12 Sandalwood, Oakmoss, Tonka Beans, Virginia Cedar, Vetiver, Musk
+__label__7 Desert Jasmin, Cherokee Rose, Magnolia Petals, Dakota Lilies, Cedar, Sandalwood, Wild Heather
+__label__0 Benzoin
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__1 Aromatic Cedarwood, Tonka, Amber, Vetiver
+__label__2 Vanilla, Ambra
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__1 Powdery, Floral, Woody, Balsamic, Rose
+__label__3 Apricot, amber, lemon tree
+__label__3 Tonka Bean, Woody Notes
+__label__5 Vegetal Amber, Musk, Mahogany
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__0 Australian Sandalwood, Musk, Vanilla
+__label__1 Amber, Tibetan Musk, Sandalwood, Iris, Vanilla
+__label__3 Amber, Cactus, Cotton Plant Blossom
+__label__4 Cedar, Vetiver, Patchouli, Sandalwood, Ambergris, Musk
+__label__0 Blood Orange, Pressed Sicilian Lemon, Juniper Berries
+__label__0 Cedar Wood
+__label__6 Sandalwood, Musk, Vanilla Orchid, Cedar
+__label__7 Ambergris, musk
+__label__1 Joshua Tree, Ambroxan
+__label__7 Tonka Bean, Atlas Cedar, Vetiver, White Musk, Pepper
+__label__1 Cashmeran, Suede, Musk
+__label__1 Sandalwood, Cashmere, Ambergris
+__label__3 Labdanum, Cedar
+__label__0 Cedarwood, Tonka Bean
+__label__2 Benzoin, Tonka Beans, Vanilla
+__label__1 Cedar, Vanilla, Patchouli
+__label__0 Benzoin, Guaiac Wood, Tonka Beans
+__label__1 White Musk, Sandalwood
+__label__1 Woody, musky
+__label__1 Sandalwood, Caramel, Beeswax, Patchouli
+__label__2 Vanilla, Tonka Bean, Iris, Sandalwood, Musk, Amber, Vetiver, Cedar, Patchouli
+__label__4 Patchouli, Caramel, Amber, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Guaiac Wood, Musk, Vanilla
+__label__1 Amber, Patchouli
+__label__0 Indonesian Patchouli, Oakmoss
+__label__1 Oakmoss, Amberwood, Patchoulli, Sandalwood, White Musk
+__label__1 Orris Root, Musk, Vanilla
+__label__7 Sandalwood, Ambroxan, Musk, Woodsy Notes
+__label__1 Patchoulie, Musk, Schijnhulst
+__label__5 Cypress, Cashmere Wood, Amberwood, Sandalwood
+__label__5 Musk, Vanilla
+__label__4 Amber
+__label__3 Dark Chocolate, Cashmeran, Coumarin, Patchouli
+__label__0 Sandalwood, Olive Tree, Vanilla
+__label__1 Cedar, Vetiver, Sandalwood, Musk
+__label__6 Cashmeran, Ambroxan, Musk
+__label__1 Lily, Wild Strawberry
+__label__0 Opoponax, Patchouli, Tonka Beans, Vanilla, Vetiver, White Musk
+__label__0 Musk, Amber, Wood
+__label__3 Amber, Woody
+__label__1 Leather, Oakmoss, Amber
+__label__5 Cacao
+__label__1 Vetiver, Musk, Ambroxan
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__0 Precious Tobacco, Amber, Woody Notes, Vetiver, Vanilla Pods, White Musk
+__label__3 Incense, Lotus, Patchouli, Sandalwood, Vanilla, Vetiver
+__label__1 Sandalwood, Cedar, Patchoulli, Musk, Benzoin
+__label__9 Tonka Bean, Guaiac Wood
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__1 Rangoon Creeper
+__label__1 Amber, Benzoin, Cedar, Tonka Beans
+__label__6 Musk, Balsam Fir
+__label__3 Guaiac Wood, Benzoin
+__label__2 Sandalwood, Leather note, Amber notes, Oud, Muscs note
+__label__6 Sandalwood, Musk, Amber
+__label__4 Sandal Wood, Musk, Vetiver
+__label__1 Virginia Cedar
+__label__3 Musk, Patchouli, Amber, Tobacco
+__label__1 Rangoon Creeper
+__label__1 Cotton Candy, Musk, Sandalwood, Vanilla
+__label__0 Amber, Cedar, Musk, Oakmoss, Tobacco
+__label__3 Amber, Moss, Musk, Vanilla, Vetiver
+__label__3 Patchouli, Sandalwood, Amber, Musk
+__label__2 Sandalwood, musk, woody - amber, patchouli, oudh, dry woody-amber, amber
+__label__3 Cashmere Wood, Coumarin, Guaiac Wood, Leather, Sandalwood, Tonka Beans, Vanilla
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__1 Caramel, Musk, Tonka, Sandalwood, Vanilla
+__label__0 Cedar, Benzoin, Suede Accord
+__label__0 Sandalwood, Tonka Bean, Amber, Coconut, Vanilla, Oak Moss, Cedar, Styrax
+__label__3 Leather, Papyrus
+__label__0 Vetiver, Ceder, WhiteMusk
+__label__3 Vanille, Olibanum, Cashmere Wood
+__label__1 Vetiver, Patchouli, Ambroxan, Vanilla
+__label__6 Musk, Vanilla
+__label__4 Vanilla, Amber
+__label__0 Vanilla, Sandalwood, Vetiver, Cedarwood, Olivewood, Amber-like-notes, Musk-like-notes
+__label__6 Amber, Tonka Beans, Musk
+__label__1 Powdery Vanilla, Musk, Woody Accord
+__label__7 Cashmeran, Virginia Cedar, Musk, Tonka Bean
+__label__6 Patchouli, Fir, Cedar
+__label__7 Patchouli, sandalwood, tonka beans, vanilla
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__18 Rose, Geranium, Jasmine, Tea
+__label__2 Vanille, Tonka Bean
+__label__7 White Musk, White Woods, Cashmere Wood, Oakmoss
+__label__0 Cashmere Wood, Musk
+__label__4 Sugar, Vanilla, Cedar, White Musk
+__label__1 Sandalwood, Crystal Moss, Warm Woods
+__label__7 Coconut Accords, Wood, Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__1 Bergamot, Gardenia, Pelargonium, Cotton Candy, Flowers
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__8 Musk, White Wood
+__label__3 Leather, Amber, Tea, Tahitian Vetiver, Oak Moss, Cedar
+__label__2 Cedar, Vanilla, Sugar, White Musk
+__label__1 Sandalwood, Vetiver, Amber
+__label__9 Cedar, Musk
+__label__3 Paraguayan Lignum Vitae, Indonesian Patchouli, Laotian Benzoin, Copper Accords
+__label__1 Woody Notes, Musk
+__label__2 Tonka Bean, Cocoa, Sandalwood, Praline, Cinnamon, Cedar, Cashmere Wood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__3 Patchouli
+__label__1 Sandalwood, Patchouli, Amber, Vetiver, Sensual Musk
+__label__3 Heliotrope, Musk, Lignum Vitae, Amber
+__label__1 Bourbon Vanilla, Sandal Wood, Tonka Bean
+__label__3 Musk, Patchouli, Cedar Wood
+__label__1 Amber, Musk, Violet Leaf, Suede
+__label__2 Sandalwood, Tonka Bean, Musk, Patchouli
+__label__5 Woody Cashmeran, Creamy Vanilla, Amber, Musk
+__label__0 Musk, Amber, Wood
+__label__2 Vanilla, Sugar, White Musk, Cedar
+__label__2 Jasmine, Wisteria
+__label__1 Amber, Precious Musk, Guaiac Wood
+__label__7 Vetiver, Cedar, White Musk
+__label__0 Cedar, Musk, Sandalwood
+__label__6 Rose, Vanilla, Ginger
+__label__1 Vanilla, Amber, Musk, Patchouli
+__label__1 Maple, Vanilla Styrax, Benzoin
+__label__1 Cedar, Vanilla, Amberwood, Patchouli
+__label__0 Sandalwood, Vetiver, Cedarwood, Vanilla
+__label__0 Sandalwood, Cedar, Amber, Labdanum
+__label__0 Tonka Bean, Almond, Oakmoss, Vetiver, Cedar
+__label__5 Sandalwood, Amber, Musk, Vanilla, Oak Moss, Cedar
+__label__0 Vetiver
+__label__1 Patchouli, Amber, Musk
+__label__1 Amber, Virginia Cedar
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__3 Patchouli, Cedar, Vetiver, Frankincense, Musk, Tonka Bean
+__label__2 Vanille, Benzoin, Tonka Bean
+__label__0 Patchouli, Virginia Cedar, Benzoin, Agarwood, Leather, Raspberry
+__label__19 Tobacco, Amber, Guaiac Wood, Sandalwood, Haitian Vetiver, Madagascar Vanilla, White Musk
+__label__1 Oak Moss, Patchouli, Musk, Sandalwood, Amber
+__label__7 cypress, amber, musk, cedar
+__label__2 Sandalwood, Vanilla, Amberwood
+__label__12 Musk, Oakmoss, Cedar, Amber
+__label__5 Cedar, Musk, Patchouli, Sandalwood
+__label__7 Cedar, tobacco, patchouli, sandalwood, musk
+__label__2 Vetyver, Amber, Musk, Oakmoss
+__label__6 Tonka Bean, Musk, Amber, Benzoin
+__label__0 Cashmere Wood, Musk
+__label__1 Musk Wood, Incense, Oakmoss
+__label__5 Suede Musk Sandalwood Cashmeran
+__label__3 Leather, Benzoin, Incense, Cedar, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__10 Marshmallow, Vanilla, Sandalwood, Heliotrope
+__label__2 Amber, Palisander Rosewood
+__label__4 Vanilla, Amber
+__label__1 Sandalwood, Musk, Vanilla
+__label__5 Cedar, Amber, Musk, Vanilla
+__label__1 Honey, Sandalwood, Tonka Bean, Amber, Musk, Civet, Vanilla, Oakmoss, Vetiver
+__label__4 Amber, Patchouli, Musk
+__label__5 Cedar, Leather, Amberwood, BenzoinTolu,  Balsam Vetiver
+__label__3 Sandalwood, Cedar, Vetiver, Vanilla
+__label__3 Tonka, Praline, Patchouli, Vanilla
+__label__5 Iris, Vanilla, White Musk, Sandalwood
+__label__12 Cedar Wood, Fir, Patchouli
+__label__5 Oak moss, musk, ambergris, vanilla
+__label__0 Cashmere Wood, Musk, Amber, Vanille
+__label__8 Musk, Praline, Tonka Beans, Vanilla, Vetiver
+__label__1 Cedar, Tonka Bean, Patchouli
+__label__7 woody notes, patchouli, cedar
+__label__0 White cedar, patchouli, amber wood, vanilla
+__label__1 Patchouli, Beeswax, Caramel, Licorice
+__label__5 Violet Leaf, Tahiti Tonka, Light Wood
+__label__7 Vanilla, tonka bean, patchouli, sandalwood
+__label__3 Vanilla Absolute, Sandalwood, White Musk
+__label__2 Tonka Bean, Cocoa
+__label__0 Haitian vetiver, tonka bean, amberwood
+__label__0 Wood, Almond
+__label__6 Musk, Oakmoss, Cedar, Tobacco, Amber
+__label__5 Floral Ambery Woody
+__label__0 Musk, Incense, Amber, Resin, Woody
+__label__0 Tonka Bean, Tahitian Vetiver, Cedar
+__label__3 Amber, Woody
+__label__1 Patchouli, Sandalwood, Vanilla, White Musk
+__label__1 Vanilla, Musk
+__label__3 Leather, Moss, Patchouli
+__label__8 White Musk, Woody Notes, Madagascar Vanilla
+__label__7 Musk, Ambroxan, Woodsy Notes, Sandalwood
+__label__1 Ambergris, vanilla, leather tonka bean, patchouli, musk, sandalwood, cedar, plum, styrax, oakmoss
+__label__2 Amber, Musk, Sandalwood
+__label__6 Amber, Musk, Sandalwood
+__label__1 Patchouli, Vetiver
+__label__1 Patchouli, Musks, Osmanthus
+__label__1 Amber, Orris, Sandalwood
+__label__1 Sandalwood, Vetiver, Rosewood, Ambergris
+__label__6 Himalayan Cedar, Warm Woman Skin Accord, Sandal, Incense
+__label__4 Sandalwood, California Cedar, Vanilla, Musk
+__label__0 Vetiver, Patchouli
+__label__3 Cedar, Olibanum, Vetiver
+__label__1 Powdery
+__label__5 Musk, Plum, Cedarwood
+__label__1 Sandalwood, Patchouli
+__label__5 Musk, Vanilla
+__label__7 Woody, Musk, Vanilla
+__label__0 Cedarwood, Sandalwood, Oak Moss, Amber, Vanilla, Musk
+__label__1 Vanilla, Musk, Pacsuli
+__label__1 Amber, Caramel, Vanilla, Sandalwood, Pralines
+__label__7 Cedar, Woody Notes, Amber, Vanilla, Musk
+__label__1 Woody, Oriental, Musky
+__label__0 Cashmere Wood, Musk
+__label__7 Balsa Wood, Haitian Vetiver, Laotian Benzoin
+__label__7 Amber, Patchouli, Vanilla, Cedar
+__label__1 Amber, Patchouli
+__label__2 Styrax, Benzoin
+__label__0 Effervescent Citrus
+__label__0 Amber, Patchouli, Brazilian Redwood, Suede
+__label__0 Dry Amber, Madagascar Vanilla, Patchouli, Cashmere, Dry Amber
+__label__1 Virginia Cedar, Incense
+__label__1 Vanilla, Sandalwood, Patchouli
+__label__8 Vanilla, Chestnut, Cedar, Amber wood, Guaiac Wood
+__label__9 Tonka Bean, Guaiac Wood
+__label__7 Tobacco, Leather, Tonka Bean
+__label__0 Indian Patchouli, amber, woody notes, leather
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__0 Vanilla Pods from Madagascar, White Musk
+__label__1 Plants, Musk, Red Woods
+__label__7 Patchouli, Oakmoss, Sandalwood
+__label__1 Caramel, Vanilla, Patchouli
+__label__8 Vanilla, Benzoin, Musk, Amber
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__5 Floral Ambery Woody
+__label__1 Apricot, Amber, Lemon Tree
+__label__1 Sandalwood, Musk, Orris Root, Vetiver
+__label__0 Woody, Amber, Vanilla
+__label__12 Cedar Wood, Fir, Patchouli
+__label__0 Praline, Coconut Salt, Suede, Musk
+__label__3 Ambery, Cedar wood
+__label__1 Mandarin Orange, Agarwood
+__label__0 Incense, Benzoin
+__label__2 Neroli, Orange Blossom, Earthy Vetiver, Saffron
+__label__8 Haitian Vetiver, Vintage Vanilla, Golden Amber
+__label__5 Amber, Patchouli, Suede
+__label__4 Patchouli, Amber
+__label__2 Patchouli, Sandalwood, Tonka Bean, Vanilla, Musk
+__label__1 Iris, Vanilla
+__label__17 Damascus, Centifolia Rose
+__label__1 Amber, Musk, Mahogany
+__label__0 Sandalwood, Amber, Patchouli, Oakmoss, Vetiver
+__label__2 Ebony, Woody Notes
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__1 Musk, Patchouli, Amber, Vanille
+__label__0 Sandalwood, Amber, Musk, Vanilla, Oakmoss, Cedar
+__label__3 Sandalwood, Benzoin, White Musk
+__label__17 Sandalwood, Cashmeran, Vanilla Pod, Heliotropine
+__label__1 Honey, Sandalwood, Tonka, Bean, Amber, Musk, Civet, Vanilla, Oakmoss
+__label__7 Ginger, Jasmine, Juniper, Nutmeg, Pepper, Violet, Whisky
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Patchouli, Amber
+__label__7 Labdanum, Sandalwod, Patchouli, Vetiver, Incense, Cedar, White Musk
+__label__0 Virginia Cedar, Leather, Suede, Vetiver
+__label__1 Musk, Vanilla, Cedar
+__label__2 Sensual Addiction Of The Tonka Bean Note
+__label__1 Gardenia
+__label__12 Leather, Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Vanilla, Cedar, Tobacco, Fern
+__label__7 Vetiver, Suede, Ambergris
+__label__9 Cedar, Musk
+__label__1 White Musk, Woody Notes, Madagascar Vanilla
+__label__0 Sandalwood, Cedar Wood, Vanilla, Caramel Musk, Woody Accords
+__label__0 Rare Wood, Amber Fat, White Musk
+__label__1 Vanilla, Iris, Sandalwood
+__label__3 Sandalwood, Amber, Cedar, Oakmoss
+__label__1 Patchouli, Black Musk, Vetiver, Moss
+__label__5 Cedar, Tonka Bean, Labdanum
+__label__5 Cashmere Wood, Amber, Vanille, Musk
+__label__0 Ambergris, Civet, Musk, Cedar Wood, Sandalwood
+__label__0 Moss, Agarwood, Amber, Atlas Cedar
+__label__7 Sandalwood, Tonka Bean, Musk, Oakmoss, Cedar, Brazilian Rosewood, Cardamom
+__label__1 Citrus Wood, Musks, Sandalwood
+__label__1 Sandalwood, Heliotrope, Amber, Musk
+__label__0 Labdanum, Sandalwood, Musk, Guaiac Wood, Vetiver, Incense
+__label__0 Cypress, Amber, Musk, Cedar
+__label__1 Sandalwood, Tonka Bean, Amber, Patchouli, Musk, Oakmoss, Cedar, Tobacco.
+__label__0 Amber, Musk, Platanus, Saffron, Woody Notes
+__label__3 Cashmere Woods, Madagascar Vanilla, Burnt Amber, Australian Sandalwood
+__label__3 Sandalwood, Tonka,  Evernyl
+__label__1 Cedar, Sandalwood, Vanilla, Tonka Bean
+__label__2 Musk, Vetiver
+__label__1 Amberwood, Cashmere Wood, Cypress, Sandalwood, Vanilla
+__label__5 Leather, Sandalwood, Tonka Beans
+__label__0 Tonka Bean, Leather, Sandalwood, Fir, Amber, Patchouli, Musk, Oakmoss, Vetiver, Cedar, Styrax
+__label__1 Cedar, Vanilla, Raspberry
+__label__3 Natural Oud Oil, Patchouli
+__label__5 Nutmeg, Oakmoss, Sandalwood
+__label__1 Musk, Patchouli
+__label__8 King Wood, Salty Amber, Tonka Beans
+__label__1 Patchouli, Sandalwood
+__label__1 Guimave, Vanilla, Heliotrope, Sandalwood
+__label__3 Amber, Cactus, Cotton
+__label__5 Amber, Musk, Sandalwood
+__label__5 Vanilla, Blackberry, Amber
+__label__1 Golden Woods, Cedar, Cashmere, Musk, Vanilla, Caramel
+__label__1 Patchouli, White Honey, Amber
+__label__5 Patchouli, White Leather
